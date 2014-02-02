@@ -3,3 +3,5 @@ markdown: redcarpet
 pygments: true
 timezone: Europe/Innsbruck
 permalink: /:categories/:title
+markdown: maruku
+autolink: true

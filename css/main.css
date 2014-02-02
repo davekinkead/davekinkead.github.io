@@ -1,9 +1,14 @@
 * { margin: 0; padding: 0; }
 
-html, body { height: 100%; font-family: "Raleway", sans-serif; font-size: 18px; line-height: 1.3em; color: #333;}
+html, body { height: 100%; font-family: "Raleway", sans-serif; font-size: 18px; line-height: 1.36em; color: #333;}
 
 a { color: #005ddf; text-decoration: none; }
 a:hover { color: #1375ff;}
+sup { margin-top: 0;}
+
+pre { overflow: scroll;}
+blockquote { margin-left: 1em; padding-left: 1em; font-style: italic; color: #666; border-left: 5px solid #CCC; }
+ul, ol { margin-left: 2em; }
 
 header, .content, footer { margin: 1em auto; }
 header h1 { text-align: center; }
@@ -20,12 +25,17 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, figure, pre, li { margin-bottom: 
 .posts .title { margin-bottom: 9px;}
 .posts .title h3 { margin: 0; }
 .posts .title span { font-weight: 200; color: #666;}
+.posts { margin-left: 0;}
 .posts > li { list-style: none; }
 .posts .excerpt * { font-size: 18px; font-weight: normal;}
+.posts .footnotes { display: none;}
 
 header.other { margin-bottom: 75px; line-height: 0.8;}
 header.other a { color: #444;}
 .other .title { font-size: 6em; margin-top: 50px; z-index: 10; text-transform: uppercase; opacity: 1; }
 .other .tagline { margin-top: -36px; text-align: center; font-size: 4em; text-transform: lowercase; line-wrap: none; color: #CCC; opacity: 0.5; z-index: 0; height: 1em; overflow: hidden; }
+
+.footnotes { color: #666; }
+.footnotes hr { margin: 1em; }
 
 footer { padding: 50px 0; text-align: center; color: #CCC;}
