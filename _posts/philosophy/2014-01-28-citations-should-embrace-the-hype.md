@@ -1,6 +1,10 @@
-# Citations should embrace the hype(rlink)
+---
+title: Citations should embrace the hype-rlink
+category: thoughts
+layout: post
+---
 
-In trying to flesh out a coherent strategy for the development of a scholarly markdown, one issue I find myself beating my head against a wall on, is the matter of references and citation.  There's much debate on the [digital] [academe] [interwebs] about an appropriate method of citing the works of others when using digital media.  Part of the problem stems from the fact that the markdown specification wasn't designed with scholarly writing in mind.  
+In trying to flesh out a coherent strategy for the development of a scholarly markdown, one issue I find myself beating my head against a wall on, is the matter of references and citation.  There's much debate on the [digital][] [academe][] [interwebs][] about an appropriate method of citing the works of others when using digital media.  Part of the problem stems from the fact that the markdown specification wasn't designed with scholarly writing in mind.  
 
 Footnotes weren't part of Gruber's original idea.  Reading the [specifications][markdown], it's clear that the primary intention of markdown was making writing for the web more readable for authors.  It was only later that the [power] and [simplicity] of text based writing became clearer to many in the digital academe.  And with the advent of scripts like [Pandoc], markdown has become much more than simply a text-to-html translator - it can now serve as a common format that effectively separates semantics from presentation while maintaining intuitive readability.
 
@@ -17,22 +21,22 @@ So in designing a scholarly markdown, the syntax for citations has already been 
 How do we do this?  Easy - just use the current markdown link syntax of
 
     [link text][ref]
-    
+  
     [ref]: url "optional title"
     
 and apply a convention within the reference to indicate this is more than just a link, along with a static text format - I prefer the `@` symbol as it's widely used to specify a person.  This would result in something like:
 
-    ...despite Breakey's [2009:p74][@breakey2009] protestations that utilitarians have access to sufficient information....
-    
-    [@breakey2009]: http://dx.doi.org/10.1017/S0953820808003373 "Hugh Breakey (2009). The Epistemic and Informational Requirements of Utilitarianism. Utilitas, 21, pp 72-99."
+>  ...despite Breakey's [2009 p74][@breakey2009] protestations that utilitarians have access to sufficient information....
+>  
+>  [@breakey2009]: http://dx.doi.org/10.1017/S0953820808003373 "Hugh Breakey (2009). The Epistemic and Informational Requirements of Utilitarianism. Utilitas, 21, pp 72-99."
 
 The advantage of this approach is threefold.  Firstly, it treats citations as links when used in hypermedia, with all the accompanying advantages of this.  Secondly, it maintains static media citation conventions in the link title field (which will also be visible on link hover events).  
 
-Finally, it provides sufficient hooks for external scripts to make citation style automatic.  A preprocessor could for example, could look up any link reference key such as `[@breakey2009]` from an external library file or API, and insert the reference url and format the reference title at the end of the document according to a [CSL].  With this in place, all one would need to do to cite an author in text would be write [text][@author].
+Finally, it provides sufficient hooks for external scripts to make citation style automatic.  A preprocessor could for example, could look up any link reference key such as `[@breakey2009]` from an external library file or API, and insert the reference url and format the reference title at the end of the document according to a [CSL].  With this in place, all one would need to do to cite an author in text would be write `[text][@author]`.
 
 The purpose of markdown is to make writing simple and readable. End of story. Everything else, such as the heavy lifting of citation and reference formatting, can be done by other tools.
 
-[digital]: http://blog.martinfenner.org/2013/06/19/citations-in-scholarly-markdown/
+[digital]: http://blog.martinfenner.org/2013/06/24/citations-in-markdown-part-3/
 [academe]: http://blog.yoavram.com/citations-in-markdown-using-pandoc/
 [interwebs]: http://www.gradhacker.org/2012/11/20/using-markdown-like-an-academic/
 [markdown]: http://daringfireball.net/projects/markdown/
