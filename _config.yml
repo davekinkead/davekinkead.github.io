@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: The often wrong and always confused ramblings of Dave Kinkead
 markdown: redcarpet
 pygments: true
+timezone: Europe/Innsbruck
+permalink: /:title
