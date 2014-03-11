@@ -8,6 +8,8 @@ I'll be visiting the [Munich Center for Mathematical Philosophy][mcmp] next mont
 
 Beer halls and computational philosophy - what could be better?  Abstract is below...
 
+23 April 2014, Ludwigstraße 31, ground floor, Room E21
+
 [mcmp]: http://www.mcmp.philosophie.uni-muenchen.de/index.html
 
 ---
