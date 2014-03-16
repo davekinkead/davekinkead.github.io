@@ -1,5 +1,5 @@
 ---
-title: The Boundary Problem is really three Problems
+title: The Boundary Problem is really three problems
 layout: post
 category: philosophy
 ---
