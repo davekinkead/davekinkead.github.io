@@ -1,0 +1,3 @@
+- what is digital scholarship?
+- what does it involve?
+- why should we do it?

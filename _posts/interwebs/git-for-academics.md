@@ -1,0 +1,1 @@
+- introduce the series git for academics
