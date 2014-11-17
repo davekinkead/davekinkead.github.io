@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; }
 
-html, body { height: 100%; font-family: 'Merriweather', serif; font-size: 18px; line-height: 1.5em; color: #333; font-weight: 300;}
+html, body { height: 100%; font-family: 'Merriweather', serif; font-size: 18px; line-height: 1.75em; color: #3A4145; font-weight: 300;}
 
 a { color: #6A739E; text-decoration: none; }
 a:hover, .post h1, .post h2 { color: #9395C5;}
