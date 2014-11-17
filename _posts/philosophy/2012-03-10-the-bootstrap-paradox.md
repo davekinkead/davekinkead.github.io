@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Bootstrap Paradox
-category: philosophy
+category: thoughts
 date: 10 Mar 2012
 ---
 

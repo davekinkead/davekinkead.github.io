@@ -1,7 +1,7 @@
 ---
 title: The Doctrinal Paradox and Majority Rule
 layout: post
-category: philosophy
+category: thoughts
 ---
 
 Consider the following hypothetical...

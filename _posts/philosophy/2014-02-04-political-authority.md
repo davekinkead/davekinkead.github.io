@@ -1,7 +1,7 @@
 ---
 title: Political Authority
 author: Dave Kinkead
-category: philosophy
+category: thoughts
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: What kind of liberal are you?
-category: philosophy
+category: thoughts
 author: Dave Kinkead
 layout: post
 ---

@@ -2,6 +2,7 @@
 title: A Referendum in Crimea
 author: Dave Kinkead
 layout: post
+category: thoughts
 ---
 
 As the annexation of Crimea unfolds, all parties with some interest in the outcome - the US, the EU, Russian, and Ukrainians themselves - hold [very][1] [different][2] [opinions][3] on the legality and legitimacy of the proposed referendum on Crimea's possible secession from the Ukraine and union with Russia.  Ignoring legal considerations for a moment, I wonder if there is any possibility that any outcome could ever be considered legitimate from a normative standpoint.

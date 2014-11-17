@@ -2,6 +2,7 @@
 title: Two Thoughts about Consent
 author: Dave Kinkead
 layout: post
+category: thoughts
 ---
 
 Consent theory of authority has a long tradition in political philosophy; and objections to consent theory have a tradition almost as long.  The appeal of consent theory is unquestionable: if we accept the fundamental liberal assumption that individual freedom is the default position and impositions to this freedom must be justified, then it seems only natural to think that any obligations we have to obey a political authority must require our consent.

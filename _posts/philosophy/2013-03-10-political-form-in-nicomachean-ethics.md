@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Political Form in Aristotle’s Nicomachean Ethics
-category: philosophy
+category: thoughts
 date: 10 Mar 2013
 ---
 

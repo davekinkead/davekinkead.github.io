@@ -1,7 +1,7 @@
 ---
 title: Consent and Coercion
 layout: post
-category: philosophy
+category: thoughts
 ---
 
 In the Morality of Freedom, Joe Raz [^raz] argues that linguistic analysis is somehow lacking as a tool for examining concepts in political philosophy. Take freedom for example. He offers us the following cases:

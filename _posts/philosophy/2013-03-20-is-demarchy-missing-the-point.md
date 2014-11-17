@@ -1,7 +1,7 @@
 ---
 title: Is Demarchy Missing the Point?
 layout: post
-category: philosophy
+category: thoughts
 ---
 
 I’m very sympathetic to John Burnheim’s work on political theory. A single paragraph in the introduction to [Is Democracy Possible?](http://setis.library.usyd.edu.au/democracy/) was the basis of my Master’s thesis and the starting point for my PhD. But it’s hard not to conclude that his solution to the problems of modern electoral democracy, [demarchy](http://en.wikipedia.org/wiki/Demarchy), misses the point completely.

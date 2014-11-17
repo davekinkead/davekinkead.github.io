@@ -1,7 +1,7 @@
 ---
 title: Institutional vs Interactional Morality
 layout: post
-category: philosophy
+category: thoughts
 ---
 
 It’s wrong to inflict avoidable harm upon others. This seems to me like a pretty uncontroversial claim. Sure, there are certain circumstances like self defence, where there might be limited disagreement but even then, one can say that intentionally inflected harm from self-defence-as-a-last-resort isn’t wrong when it is simply unavoidable. Whenever there is a high degree of directness and proximity between our actions and harm to others, then (sociopaths excepted) our moral intuitions seem to keep us in good stead. Call this interactional morality, the direct duties and obligations we hold to other individuals.

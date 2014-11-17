@@ -1,7 +1,7 @@
 ---
 title: Wolff's Defence of Anarchism
 layout: post
-category: philosophy
+category: thoughts
 ---
 
 I’m currently researching democratic authority which has inevitably lead me to Robert Wolff’s seminal work [In Defence of Anarchism][google]. Its a straight forward, concise (80ish pages) argument for rejecting any legitimacy of state authority and is definitely worth the time to read.

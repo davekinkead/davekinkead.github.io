@@ -1,7 +1,7 @@
 ---
 title: Is a World Government Really the Answer?
 layout: post
-category: philosophy
+category: thoughts
 ---
 
 

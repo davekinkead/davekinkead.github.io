@@ -1,7 +1,7 @@
 ---
 title: The Boundary Problem is really three problems
 layout: post
-category: philosophy
+category: thoughts
 ---
 
 Democracy requires a demos but the demos can't be determined democratically.  Non-democratic solutions fail to adequately explain why current political boundaries should be the way they are. The inability to properly account for who the people ought be raises other challenges to democracy's coherence and claims of legitimacy.  This has become know as the Boundary Problem.

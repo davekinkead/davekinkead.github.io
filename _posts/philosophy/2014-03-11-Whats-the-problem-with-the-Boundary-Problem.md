@@ -2,6 +2,7 @@
 title: What's the Problem with the Boundary Problem?
 author: Dave Kinkead
 layout: post
+category: thoughts
 ---
 
 I'll be visiting the [Munich Center for Mathematical Philosophy][mcmp] next month a presenting a Work-in-Progress paper entitled _What's the Problem with the Boundary Problem?_  It's my first attempt to use computer modelling and simulation to shed light on a foundational problem in democratic theory. 
