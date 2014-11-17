@@ -1,9 +1,9 @@
 * { margin: 0; padding: 0; }
 
-html, body { height: 100%; font-family: "Raleway", sans-serif; font-size: 18px; line-height: 1.36em; color: #333;}
+html, body { height: 100%; font-family: 'Merriweather', serif; font-size: 18px; line-height: 1.5em; color: #333; font-weight: 300;}
 
-a { color: #005ddf; text-decoration: none; }
-a:hover { color: #1375ff;}
+a { color: #6A739E; text-decoration: none; }
+a:hover, .post h1, .post h2 { color: #9395C5;}
 sup { margin-top: 0;}
 hr { margin: 2em 5em;}
 
@@ -13,9 +13,10 @@ ul, ol { margin-left: 2em; }
 
 header, .content, footer { margin: 1em auto; }
 header h1 { text-align: center; }
-.content { max-width: 700px; }
+.content { max-width: 800px; }
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, figure, pre, li { margin-bottom: 18px; }
+h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; }
 
 .home header { margin-bottom: 100px; }
 .home header h1 { line-height: 1; font-family: "Indie Flower"; }
@@ -29,8 +30,11 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, figure, pre, li { margin-bottom: 
 .posts .title span, .meta { font-weight: 200; color: #666;}
 .posts { margin-left: 0;}
 .posts > li { list-style: none; }
-.posts .excerpt * { font-size: 18px; font-weight: normal;}
 .posts .footnotes { display: none;}
+
+.post { margin-bottom: 2em; }
+.post .meta { font-size: .85em; }
+p.meta { margin-top: -1em;}
 
 header.other { margin-bottom: 75px; line-height: 0.8;}
 header.other a { color: #444;}

@@ -12,7 +12,7 @@ Having spent much of the last month developing agent based game theoretic models
 
 ### A Prisoner's Dilemma
 
-One locus of philosophical debate in game theory is which games best model social and political behaviour.  The Prisoner's Dilemma is probably the most famous of these although there is good reason to believe other games better describe the payoffs in human interactions [^stag].  In normal form with  traditional payoffs, a Prisoner's Dilemma looks like this:
+One locus of philosophical debate in game theory is which games best model social and political behaviour.  The Prisoner's Dilemma is probably the most famous of these although there is good reason to believe other games better describe the payoffs in human interactions [^stag].  In normal form with traditional payoffs, a Prisoner's Dilemma looks like this:
 
 
 	|  3,3  |  0,5  |
