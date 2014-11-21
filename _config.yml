@@ -1,6 +1,6 @@
 name: The often wrong and always confused ramblings of Dave Kinkead
 markdown: kramdown
-highlighter: pygments
+highlighter: true
 timezone: Europe/Innsbruck
 permalink: /:categories/:title
 autolink: true

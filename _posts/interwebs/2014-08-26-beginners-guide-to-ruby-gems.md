@@ -251,7 +251,7 @@ That's it.  You are now an open source contributor!  Of dubious quality...
 
 ## Resources
 
-- [Ify on RubyGems.org][http://rubygems.org/gems/ify]
+- [Ify on RubyGems.org](http://rubygems.org/gems/ify)
 - [Ify source code][ify]
 - [RubyGems guide](http://guides.rubygems.org/)
 

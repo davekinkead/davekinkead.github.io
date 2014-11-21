@@ -43,6 +43,7 @@ header.other a { color: #444;}
 
 .footnotes { color: #666; }
 
-code { font-size: .8em; line-height: .8em; margin-left: 25px;}
+pre { line-height: 1em; padding: 1em; }
+code { font-family: Courier, 'New Courier', monospace; font-size: .8em; color: #6A739E;  }
 
 footer { padding: 50px 0; text-align: center; color: #CCC;}
