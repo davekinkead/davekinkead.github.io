@@ -1,1 +1,16 @@
 - introduce the series git for academics
+- what is git
+  - dvcs
+  - hosted repos
+- why use it
+  - today
+    - snap shots
+      - backups & windbacks
+      - provenance
+    - branching workflows
+      - drafting
+      - new ideas
+      - collaboration
+- costs of git
+  - learning curve
+  - change of workflow

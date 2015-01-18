@@ -1,4 +1,4 @@
-# File specific branch merges in git
+# Merging selective files in git
 
 One scenario that seems to be far more common in academia than software development is the need to merge only specific files from one branch into another.  As a diligent digital scholar, I'm sure you are already using a version control friendly workflow - like branching semantically atomic chunks of work that can then be merged individually in pretty much any order - so you have greater flexibility in how you curate and ensemble your scholarship.  
 
