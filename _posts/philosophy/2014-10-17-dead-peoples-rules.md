@@ -5,8 +5,6 @@ category: thoughts
 date: 17 Oct 2014
 ---
 
-# Dead People's Rules
-
 A century or two ago, a person you never knew, and whose only connection to you was that you currently live within a few thousand kilometres of where they did, said that people shouldn't wear a hat inside on Sundays.  And just because they wrote it down on paper, and some other people at the time thought it was a good idea, then you have a moral obligation today to not wear a hat inside on Sunday.  
 
 What's more, even if you think not wearing hats inside on Sundays is a stupid rule, and even if lots of other people like you now agree, you still have no grounds to object when other people use threat of violence to ensure that you don't wear a hat inside on Sundays.

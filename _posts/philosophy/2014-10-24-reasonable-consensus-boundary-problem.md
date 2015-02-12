@@ -5,8 +5,6 @@ category: thoughts
 date: 30 Oct 2014
 ---
 
-# Reasonable Consensus and the Boundary Problem
-
 Of all attempts to explain what makes political authority legitimate, the most influential in contemporary political philosophy at least, is Rawls' account of Reasonable Consensus.  Attempting to find a balance between the individualism of traditional consent theories and impersonality of instrumentalist justifications, Rawls argued that if the institutions of the state are to be used to coerce its citzens, then those institutions ought be arranged in such a way that they accord with the reasonable views of those citizens.
 
 > As long as they do so they have the right to impose duties on their members. The members may not demur on the basis of unreasonable views. Furthermore, it is not necessary on this view that the persons over whom authority is wielded have voluntarily acted or given any sign of agreement. All that need be the case is that the basic principles that regulate the coercive institutions be ones that the reasonable members can agree to.  
