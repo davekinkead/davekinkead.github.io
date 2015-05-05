@@ -1,4 +1,10 @@
-# Thesis Thoughts
+---
+layout: post
+title: Thesis Thoughts
+category: philosophy
+date: 12 Jan 2015
+---
+
 
 With 6 months of funding left, I have some concerns about my thesis structure and whether or not my argument will be satisfactory.  To condense my thesis to a sentence, it would currently read something like this:
 
