@@ -1,4 +1,9 @@
-# Justified Political Theories are Sets of Coherent Normative Claims
+---
+layout: post
+title: Justified Political Theories are Sets of Coherent Normative Claims
+category: philosophy
+date: 5 Nov 2014
+---
 
 Firstly, lets distinguish between Political Theory and political theories.  The former is a field of study into the history of political ideas, as well as the concepts and principles that people use to describe, explain, and evaluate political events and institutions.  The latter is a collection of beliefs concerning how individuals, groups, institutions, and society should act and be organised.  Political theories are normative.  They are action guiding accounts of what we should do and why we should do it.  And they are rarely self-standing, but instead rely on a range of earlier or lower order normative beliefs.
 
