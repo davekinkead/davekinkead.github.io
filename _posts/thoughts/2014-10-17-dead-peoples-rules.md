@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dead people's rules
+title: Dead people's rules
 category: thoughts
 date: 17 Oct 2014
 ---

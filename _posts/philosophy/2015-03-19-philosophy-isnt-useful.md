@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Philosophy isn't useful
-category: thoughts
+title: Philosophy isn't useful
+category: philosophy
 date: 19 Mar 2015
 ---
 
@@ -32,3 +32,5 @@ Yet there is a problem with all this. If philosophy is so useful, then why isn't
 [5]: http://fapsa.org.au/
 
 If philosophy is so useful, if argument is so effective, then why isn't philosophy, or even logic or critical reasoning, taught widely in school? 
+
+---
