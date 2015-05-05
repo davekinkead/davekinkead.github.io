@@ -1,2 +1,0 @@
-# A simulation of democracy
-

@@ -1,4 +1,9 @@
-# Are illiberal societies less stable than liberal ones?
+---
+layout: post
+title: Are illiberal societies less stable than liberal ones?
+category: philosophy
+date: 14 July 2014
+---
 
 What causal role does liberalism play in social stability?  This is clearly an empiric question but one that has profound normative consequences.  It's also one that can be explored theoretically from the arm chair.  And while empiric data might be better, there is no guarantee of this owning to possible confounders and difficulty of measuring political concepts like liberty.
 
