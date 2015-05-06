@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Vote Zero Queensland
+title:  The Paucity of Politics - Queensland Edition
 category: thoughts
 date: 12 Feb 2015
+status: draft
 ---
 
-If it's one thing that disturbs me more than reflecting on the last three years of politics in Queensland, it's the thought of the next three years after a LNP victory on Saturday.  Newman, like his federal counterpart, has repeatedly demonstrated his contempt for Queensland through his ....
+If it's one thing that disturbs me more than reflecting on the last three years of politics in Queensland, it's the thought of the next three years after a LNP victory on Saturday.  Newman, like his federal counterpart, has repeatedly demonstrated his contempt for Queensland though his 
 
 How is it possible that a party that explicitly seeks to benefit a privileged minority at the expense of the rest of the state was voted in in the first place.  How is it possible that a party that .... looks like scraping by with a slim majority come Sunday morning?  While they may have corrupted the independence of the public service, environmental regulation, political transparency.... there's no evidence to suggest that the cancerous rot of self-interest extends to the electoral commission. So how is it that they even in with a chance?
 
@@ -21,9 +22,7 @@ Because it is better to vote zero than put a number in the LNP square[^except]. 
 
 A vote for the LNP is an endorsement of their policies and performance. So if can't bring yourself to vote for anyone else, vote for a better Queensland - Vote Zero.
 
-
-http://periodicdisclosures.aec.gov.au/Returns/49/PQUW2.pdf
-http://www.afr.com/p/national/lnp_supporter_paul_darrouzet_granted_H56FCT5lzRinFun8UfGHiK  
+ 
 http://www.brw.com.au/p/brw-lounge/miners_dig_deep_league_queensland_IriHts2TgskhnoeWF7AaZJ  
 http://www.abc.net.au/news/2014-06-23/karreman-quarries-escapes-prosecution-for-illegal-quarrying/5543896  
 
