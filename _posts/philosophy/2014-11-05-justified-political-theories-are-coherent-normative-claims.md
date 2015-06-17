@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Justified Political Theories are Sets of Coherent Normative Claims
-category: philosophy
+category: thoughts
 date: 5 Nov 2014
 ---
 

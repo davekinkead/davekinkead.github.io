@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Reasonable Consensus and the Boundary Problem
-category: philosophy
+category: thoughts
 date: 24 Oct 2014
 ---
 

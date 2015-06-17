@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are illiberal societies less stable than liberal ones?
-category: philosophy
+category: thoughts
 date: 14 July 2014
 ---
 

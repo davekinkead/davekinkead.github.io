@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Foundationalism & Justification
-category: philosophy
+category: thoughts
 date: 30 Oct 2013
 ---
 

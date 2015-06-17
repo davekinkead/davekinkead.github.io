@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thesis Thoughts
-category: philosophy
+category: thoughts
 date: 12 Jan 2015
 ---
 

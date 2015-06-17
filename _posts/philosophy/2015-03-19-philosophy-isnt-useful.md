@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philosophy isn't useful
-category: philosophy
+category: thoughts
 date: 19 Mar 2015
 ---
 
