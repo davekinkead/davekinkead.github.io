@@ -1,0 +1,58 @@
+---
+---
+
+* { margin: 0; padding: 0; }
+
+html, body { height: 100%; font-family: 'Merriweather', serif; font-size: 18px; line-height: 1.75em; color: #3A4145; font-weight: 300;}
+
+a { color: #6A739E; text-decoration: none; }
+a:hover, .post h1, .post h2 { color: #9395C5;}
+sup { margin-top: 0;}
+hr { margin: 2em 5em;}
+
+pre { overflow: scroll;}
+blockquote { margin-left: 1em; padding-left: 1em; font-style: italic; color: #666; border-left: 5px solid #CCC; }
+ul, ol { margin-left: 2em; }
+
+header, .content, footer { margin: 1em auto; }
+header h1 { text-align: center; }
+.content { max-width: 800px; padding: 1em; }
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, figure, pre, li { margin-bottom: 18px; }
+h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; }
+
+.home {
+  header { 
+    margin-bottom: 100px; 
+
+    h1 { line-height: 1; font-family: "Indie Flower"; }
+    h1 em, h1 strong { font-family: "Raleway", sans-serif; display: block; margin: 36px 0; font-style: normal; color: #444; }
+    h1 em { font-size: 1.5em; }
+    h1 strong { font-size: 4em; text-transform: uppercase; }
+  }
+
+} 
+
+#posts { padding: 36px 0 18px 0;}
+.posts .title { margin-bottom: 9px;}
+.posts .title h3 { margin: 0; }
+.posts .title span, .meta { font-weight: 200; color: #666;}
+.posts { margin-left: 0;}
+.posts > li { list-style: none; }
+.posts .footnotes { display: none;}
+
+.post { margin-bottom: 2em; }
+.post .meta { font-size: .85em; }
+p.meta { margin-top: -1em;}
+
+header.other { margin-bottom: 75px; line-height: 0.8;}
+header.other a { color: #444;}
+.other .title { font-size: 6em; margin-top: 18px; z-index: 10; text-transform: uppercase; opacity: 1; }
+.other .tagline { margin: 0 auto; margin-top: -34px; text-align: center; font-size: 4em; text-transform: lowercase; line-wrap: none; color: #CCC; opacity: 0.5; z-index: 0; height: 1em; width: 100%; overflow: hidden; text-align: center; }
+
+.footnotes { color: #666; }
+
+pre { line-height: 1em; padding: 1em; }
+code { font-family: Courier, 'New Courier', monospace; font-size: .8em; color: #6A739E;  }
+
+footer { padding: 50px 0; text-align: center; color: #CCC;}
