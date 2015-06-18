@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  A beginner's guide to ruby gems
-category: thoughts
+category: talks
+audience: BrisRuby Meetup
 ---
 
 On key factor of Ruby's success as a language - apart from its beautiful expressiveness - is it's package management ecosystem - RubyGems.  Just like Ruby, RubyGems is optimised for developer happiness - it makes the packaging and dependency requirements of distributed software a pleasure.
