@@ -1,5 +1,10 @@
 # Blog todo list
 
-  - add a projects page
-  - re-org categories
-  - fix about page
+  - site nav
+  - RSS
+  - fix category pages
+  - fix post pages
+  - add vita
+  - add work page
+
+
