@@ -8,61 +8,54 @@ Most people who work on the interwebs probably know that [Elasticsearch](http://
 
 [Karel Minarik](http://www.karmi.cz/en) has published [Tire](https://github.com/karmi/tire), a Ruby API and DSL for ElasticSearch, that makes search and persistence a breeze.  Just include the gem and you have ActiveModel behaviour in your classes.
 
-```ruby
-  require 'tire'
+    require 'tire'
 
-  class MyModel	
+    class MyModel  
+      include Tire::Model::Persistence
 
-  	include Tire::Model::Persistence
-
-  	property :id
-  	property :name
-
-  end
-```
+      property :id
+      property :name
+    end
   
 MyModel then acts just like ActiveRecord except the data is persisted in Elasticsearch
 
-```ruby
-	MyModel.create :id => 2, :name => 'Inigo Montoya'
 
-	some_model.find 2
-	some_model.name 	# => 'Inigo Montoya'
+    MyModel.create :id => 2, :name => 'Inigo Montoya'
 
-	MyModel.tire.search 'inigo'
-```
+    some_model.find 2
+    some_model.name   # => 'Inigo Montoya'
+
+    MyModel.tire.search 'inigo'
+
 
 The only downside to this however, is that you now need to pre-declare all your model properties and thus give up all that schema-less sweetness that makes Elasticsearch so delicious.  Often, I want to instantiate models with a variety of attributes dynamically at run time, so having to hard code _property_ attributes is a non-trivial bummer.  Luckily however, there is a solution.  Just override your model's `initialize` method.
 
-```ruby
-	require 'tire'
 
-	class MyModel	
+    require 'tire'
 
-		include Tire::Model::Persistence
-	
-		property :name
-	
-		def initialize(attrs={})
-			attrs.each do |attr, value|
-				# call Tire's property method if it hasn't been set explicitly
-				self.class.property attr unless self.class.property_types.keys.include? attr
-				# set instance variable
-				instance_variable_set("@#{attr}", value) 
-			end
-			super attrs
-		end
-	end
-```
+    class MyModel  
+      include Tire::Model::Persistence
+
+      property :name
+
+      def initialize(attrs={})
+        attrs.each do |attr, value|
+          # call Tire's property method if it hasn't been set explicitly
+          self.class.property attr unless self.class.property_types.keys.include? attr
+          # set instance variable
+          instance_variable_set("@#{attr}", value) 
+        end
+        super attrs
+      end
+    end
+
 
 Then you can dynamically create a variety of attributes at run time whilst still keeping explicit property mappings.
 
-```ruby
 
-  	swordsman = MyModel.new :name => 'Inigo Montoya', :rage_from => 'Killing of Father', :prepares_for => 'death'
-	
-  	poison = MyModel.new :name => 'Iocane', :substance => 'powder', :colour => nil, :odour => nil, :taste => nil
+    swordsman = MyModel.new :name => 'Inigo Montoya', :rage_from => 'Killing of Father', :prepares_for => 'death'
 
-```
+    poison = MyModel.new :name => 'Iocane', :substance => 'powder', :colour => nil, :odour => nil, :taste => nil
+
 
 Enjoy!
