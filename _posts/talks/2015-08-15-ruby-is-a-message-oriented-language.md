@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ruby is a Message Oriented Language
-category: thoughts
+category: talks
 audience: RailsGirls Brisbane
 ---
 
