@@ -6,18 +6,18 @@ permalink: /projects/
 
 ### [Modelling the Boundary Problem][1]
 
-This is a work-in-progress on the relationship between democratic inclusion and democratic authority.  It is simultaneously a philosophical argument and computer simulation written in literate coffeescript.
+This is an argument about the relationship between democratic inclusion and instrumental justifications of democracy. I show that any account of democracy that relies on the outcomes of democracy processes to demonstrate democracy's value must have a congruent account of inclusion. Not only that, but because different accounts of democracy rely on different and incompatible accounts of inclusion, these accounts of democracy are themselves incompatible.
 
-I argue that in order to be legitimate, any instrumental account of democracy must articulate a congruent account of inclusion (but none do).  Furthermore, incompatible accounts of inclusion make certain instrumental justifications of democracy incompatible themselves.
+This paper is unique in that is simultaneously a philosophical argument and a computer simulation. Written in literate coffeescript, the code described in the paper can also be run by the coffeescript compiler to demonstrate the argument being described by the paper. The reader may generate both the argument in PDF, or the simulation and results in HTML with the command coffee paper.coffee.md.
 
 [1]: http://dave.kinkead.com.au/modelling-the-boundary-problem/
 
 
-### [What can we infer about school performance?][2]
+### [What Can Student Results Tell Us About School Performance?][2]
 
-Assessing teacher and school performance has become increasingly prevalent in many education systems. But directly measuring the causal impact of a school or pedagogy on student academic ability is difficult. Instead, student performance is used as a proxy for school performance.
+It seems likely that most people believe schooling somehow affects student ability. After all, we as a society invest significant amounts of time and money in various endeavours trying to measure exactly this. Yet these endeavours face an epistemic challenge. Because we can't measure the causal impact of schools directly, we can't know this causal impact with certainty. Instead, we infer the causal impact of schools on student ability by way of proxy measures such as student results. If student results improve, then we can infer that some aspect of schooling caused this. Perhaps.
 
-But what exactly can we infer about school performance from student performance? This is a proof of concept simulation for a paper I plan to write this year.
+How warranted is this inference from student results to school performance? With the aid of computer simulation, I investigate the robustness of this inference mechanism in a variety of common scenarios. Simulation allows us to stipulate causal mechanisms that cannot be observed in the real word and measure how well our empiric inferences map actual causes. I show that when selectivity, either by student or school, is present, the inference mechanism from student results to school performance is very poor. And if our causal inferences fail when causes are known, they must also fail when causes are not known.
 
 [2]: http://dave.kinkead.com.au/school-performance/
 
