@@ -17,7 +17,7 @@ I'll be presenting these ideas later in the year at PESA2015 in Melbourne. In th
 <div id="shifting-averages"></div>
 <figcaption>Is school performance anything more than shifting averages?</figcaption></figure>
 
-Click on the simulation to start or stop it.
+Above we can see a simulation random ability students in two schools with identical impact on student performance but where some students can enrol in what they perceive to be the _best performing_ school.  High ability students (blue) quickly congregate in one school rather than the other and the inference from student results to school performance breaks down.  Click on the simulation to start or stop it.
 
 [1]: http://dave.kinkead.com.au/school-performance/
 [2]: https://github.com/davekinkead/school-performance
