@@ -99,6 +99,10 @@ header.other a { color: #444;}
 .other .tagline { margin: 0 auto; margin-top: -24px; text-align: center; font-size: 4em; text-transform: lowercase; line-wrap: none; color: #CCC; opacity: 0.5; z-index: 0; height: 1em; width: 100%; overflow: hidden; text-align: center; }
 
 .footnotes { color: #666; }
+figure.simulation { position: absolute; left: 0; height: 100%; margin-bottom: 1rem;
+  figcaption { text-align: center; }
+  + * { margin-top: 85%; }
+}
 
 pre { line-height: 1em; padding: 1em; }
 code { font-family: Courier, 'New Courier', monospace; font-size: .8em; color: #6A739E;  }
