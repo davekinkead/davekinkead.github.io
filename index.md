@@ -10,7 +10,7 @@ I ski pow, [write code](https://github.com/davekinkead){:target="_blank"}, and [
 
 I'm a philospher at the University of Queensland and an independent software consultant with degrees in Philosophy, Business, & Science.  Probably because I never got a gold star for finger-painting. 
 
-Right now, I'm [working](/projects) on [computational approaches to political philsophy](https://github.com/davekinkead/modelling-the-boundary-problem/){:target="_blank"}.
+Right now, I'm working on [computational approaches to political philsophy](https://github.com/davekinkead/modelling-the-boundary-problem/){:target="_blank"}.
 
 I also like to travel. This week, I'm in [Brisbane](#) <strike>Krabi</strike> <strike>Berlin</strike> <strike>Vienna</strike> <strike>Brataslava</strike> <strike>Budapest</strike><strike>Munich</strike> <strike>Zillertal</strike> <strike>Copenhagen</strike> <strike>Brisbane</strike>.
 
