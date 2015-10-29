@@ -1,50 +1,26 @@
 ---
-layout: default
+layout: home
 title: Often wrong, always confused, never bored.
 class: home
 ---
 
-<header>
-  <div class="content container">
-    <h1>Dave Kinkead</h1>
-    <h2><span>Traveller</span> <span>Thinker</span> <span>Technologist</span></h2>
-  </div>
-  <div class="overlay"></div>
-</header>
+G’day, I’m Dave.
 
+I ski pow, [write code](https://github.com/davekinkead){:target="_blank"}, and [read philosophy](/philosophy).
 
-<section class="content">
+I'm a philospher at the University of Queensland and an independent software consultant with degrees in Philosophy, Business, & Science.  Probably because I never got a gold star for finger-painting. 
 
-  <p>G’day, I’m Dave.</p>
+Right now, I'm [working](/projects) on [computational approaches to political philsophy](https://github.com/davekinkead/modelling-the-boundary-problem/){:target="_blank"}.
 
-  <p>I ski pow, write code, and read philosophy.</p>
+I also like to travel. This week, I'm in [Brisbane](#) <strike>Krabi</strike> <strike>Berlin</strike> <strike>Vienna</strike> <strike>Brataslava</strike> <strike>Budapest</strike><strike>Munich</strike> <strike>Zillertal</strike> <strike>Copenhagen</strike> <strike>Brisbane</strike>.
 
-  <p>I have degrees in Philosophy, Science, &amp; Business.  Probably because I never got a gold star for finger-painting.  Right now, I'm <a href="projects">working</a> on <a href="https://github.com/davekinkead/modelling-the-boundary-problem/" target="_blank">computational approaches to political philsophy</a>.</p>
+I try to [write](/thoughts) and [give talks](/talks) as often as possible.  I’m often wrong and always confused.  But that's a good thing. 
 
-  <p>I like to travel. This week, I'm in 
+I think.
 
-  <a href="#">Brisbane</a>
-  <strike>Krabi</strike> 
-  <strike>Berlin</strike> 
-  <strike>Vienna</strike> 
-  <strike>Brataslava</strike> 
-  <strike>Budapest</strike> 
-  <strike>Munich</strike> 
-  <strike>Zillertal</strike> 
-  <strike>Copenhagen</strike> 
-  <strike>Brisbane</strike> 
-  </p>
+[dave@kinkead.com.au](mailto:dave@kinkead.com.au)  
+[twitter.com/davekinkead](https://twitter.com/davekinkead){:target="_blank"}  
+[github.com/davekinkead](https://github.com/davekinkead){:target="_blank"}
 
-  <p>I try to <a href="thoughts/">write</a> and <a href="talks/">share my ideas</a> to who ever will listen.  I’m often wrong and always confused.  But that's a good thing. I think.</p>
-
-  <p>I also like beer.  Feel free to drop me a line some time.</p>
-
-  <p>dave@kinkead.com.au <br />
-  <a href="https://twitter.com/davekinkead">twitter.com/davekinkead</a>   <br />
-  <a href="https://github.com/davekinkead">github.com/davekinkead</a>   <br />
- <br />
-  +61 (0)431 946160   <br />
-  +43 (0)680 1449208   <br />
-  </p>
-</section>
-
++61 (0)431 946160  
++43 (0)680 1449208   
