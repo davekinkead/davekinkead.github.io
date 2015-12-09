@@ -12,7 +12,7 @@ I'm a philospher at the University of Queensland and an independent software con
 
 Right now, I'm working on [computational approaches to political philsophy](https://github.com/davekinkead/modelling-the-boundary-problem/){:target="_blank"}.
 
-I also like to travel. This week, I'm in [Brisbane](#) <strike>Krabi</strike> <strike>Berlin</strike> <strike>Vienna</strike> [~~Brataslava~~](http://kinkead.com.au/bratislava/) [~~Budapest~~](http://kinkead.com.au/budapest/) [~~Munich~~](http://kinkead.com.au/green-munich/) <strike>Zillertal</strike> <strike>Copenhagen</strike> <strike>Brisbane</strike>.
+I also like to travel. This week, I'm in [Brisbane](#) <strike>Krabi</strike> <strike>Berlin</strike> <strike>Vienna</strike> [<strike>Brataslava</strike>](http://kinkead.com.au/bratislava/) [<strike>Budapest</strike>](http://kinkead.com.au/budapest/) [<strike>Munich</strike>](http://kinkead.com.au/green-munich/) <strike>Zillertal</strike> <strike>Copenhagen</strike>.
 
 I try to [write](/thoughts) and [give talks](/talks) as often as possible.  I’m often wrong and always confused.  But that's a good thing. 
 
