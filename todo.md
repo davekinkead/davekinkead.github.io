@@ -1,5 +1,8 @@
 # Blog todo list
 
+  - add latest posts to index
+  - js scroll position
+
   - site nav
   - RSS
   - fix category pages

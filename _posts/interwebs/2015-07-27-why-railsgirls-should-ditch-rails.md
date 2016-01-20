@@ -12,7 +12,7 @@ But I'm still left with one niggling doubt...
 
 Everyone knows Rails is magic.  Remember DHH's first screencast - ["Look at all the things I'm not doing"](https://www.youtube.com/watch?v=Gzj723LkRJY&t=4m15s) - who wasn't seduced by that simplicity?  Rails does so much out of the box and that's one of the reasons why it is so good for web development and rapid prototyping.
 
-Of course that's also one of the major obstacles to learning Rails.  For beginners, Rails is too magical.  The tool chain is just too complex for a single day introduction.  Have a quick look at the [build an app guide](http://guides.railsgirls.com/app/) - even without factoring in the installation steps, the vast majority of actual 'coding' involves nothing more than running generator commands.  Now generators are a great way to scaffold out an app but they make a horrible tool for learning.
+Of course that's also one of the major obstacles to learning Rails.  For beginners, Rails is too magical.  The tool chain is just too complex for a single day introduction.  Have a quick look at the [build an app guide](http://guides.railsgirls.com/app/) - even without factoring in the installation steps, the vast majority of actual 'coding' involves nothing more than running generator commands.  Generators are a great way to scaffold out an app but they make a horrible tool for learning.
 
 Houston, we have a problem.
 
@@ -32,6 +32,6 @@ One great alternative would be [Sinatra](http://www.sinatrarb.com/). Sure, you w
     end
 
 
-In four lines of code, we have the essences of a web app - requests and request methods, routes, responses, and HTML.  Add more functionality and it becomes immediately clear how your app interacts with a database and about why modularity and DRY is so important.  Add even more functionality and you understand why Rails really is such an awesome framework, and why you'll turn to it for just about all your CRUDy needs.
+In four lines of code, we have the essence of a web app - requests and request methods, routes, responses, and HTML.  Add more functionality and it becomes immediately clear how your app interacts with a database and about why modularity and DRY is so important.  Add even more functionality and you understand why Rails really is such an awesome framework, and why you'll turn to it for just about all your CRUDy needs.
 
 Until you do something manually, you won't understand what any of the automation does.  And understanding is the path to empowerment.

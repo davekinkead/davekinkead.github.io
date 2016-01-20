@@ -4,23 +4,26 @@ title: Often wrong, always confused, never bored.
 class: home
 ---
 
-G’day, I’m Dave.
+<p class="highlight"><a href="/consulting">Consulting</a> - <a href="/thoughts">Writing</a> - <a href="/talks">Speaking</a> - <a href="/vitae">Vitae</a></p>
 
-I ski pow, [write code](https://github.com/davekinkead){:target="_blank"}, and [read philosophy](/philosophy).
+## G’day, I’m Dave.
 
-I'm a philospher at the University of Queensland and an independent software consultant with degrees in Philosophy, Business, & Science.  Probably because I never got a gold star for finger-painting. 
+I ski pow, write code, and read philosophy.
 
-Right now, I'm working on [computational approaches to political philsophy](https://github.com/davekinkead/modelling-the-boundary-problem/){:target="_blank"}.
+I'm a philospher at the University of Queensland and an independent technology and strategy consultant.  I hold degrees in Philosophy, Business, & Science.  Probably because I never got a gold star for finger-painting.
 
-I also like to travel. This week, I'm in [Brisbane](#) <strike>Krabi</strike> <strike>Berlin</strike> <strike>Vienna</strike> [<strike>Brataslava</strike>](http://kinkead.com.au/bratislava/) [<strike>Budapest</strike>](http://kinkead.com.au/budapest/) [<strike>Munich</strike>](http://kinkead.com.au/green-munich/) <strike>Zillertal</strike> <strike>Copenhagen</strike>.
+Aussie by birth, I now live and work around the world.  Travel is in my blood - this month, I'm living in the Zillertal.
 
-I try to [write](/thoughts) and [give talks](/talks) as often as possible.  I’m often wrong and always confused.  But that's a good thing. 
+I write and speak about technology, philosophy, and travel.  I’m often wrong and always confused.  After all, epistemic modesty is a good thing ... I think.
 
-I think.
+
+## Contact
+
+I'm always interested in hearing about interesting stories or challenging problem. I'm available for technology consulting and training.  Please get in touch. 
 
 [dave@kinkead.com.au](mailto:dave@kinkead.com.au)  
 [twitter.com/davekinkead](https://twitter.com/davekinkead){:target="_blank"}  
 [github.com/davekinkead](https://github.com/davekinkead){:target="_blank"}
 
 +61 (0)431 946160  
-+43 (0)680 1449208   
++43 (0)680 2212637

@@ -15,5 +15,12 @@ Learning the fundamentals of anything is critical to understanding it but I foun
 
 So with that in mind, I thought it might be fun, interesting, and useful even, to dive into the sewers of git's plumbing and re-implement it with ruby, step by step. Just for shits and giggles.  And to simultaneously scratch another [#becausewhynot](https://twitter.com/hashtag/becausewhynot) itch, I'll be using a library I've written for [literate programming in ruby - Ristretto](https://github.com/davekinkead/ristretto).  Yes, each blog post here will also transpile into executable ruby which will hopfully/eventually turn into [git.rb](https://github.com/davekinkead/git-rb).
 
-So this will be a series of posts explaining how git works and implementing it from scratch in ruby.  In Part One: Grokking Git - we'll look git's underlying data structure and explore a someone different mental model of git and its work flows.  We'll also implement the `git init` command and learn about git's directory structure.
+So this will be a series of posts explaining how git works and implementing it from scratch in ruby.  
+
+1. The Trivium of Git
+2. Content Addressable Storage
+3. Horrible Histories
+
+
+In Part One: Grokking Git - we'll look git's underlying data structure and explore a someone different mental model of git and its work flows.  We'll also implement the `git init` command and learn about git's directory structure.
 

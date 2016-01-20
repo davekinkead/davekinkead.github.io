@@ -1,0 +1,35 @@
+Groking Git
+
+  - content addressable storage
+  - a directed graph
+  - git init
+
+Git init generates:
+
+  config
+  description
+  HEAD
+    ref: refs/heads/master
+  index (after git add)
+  /hooks
+  /info
+    exclude
+      # git ls-files --others --exclude-from=.git/info/exclude
+      # Lines that start with '#' are comments.
+      # For a project mostly in C, the following would be a good set of
+      # exclude patterns (uncomment them if you want to use them):
+      # *.[oa]
+      # *~
+  /objects
+    /aa (after first add)
+    /info
+    /pack
+  /refs
+    /heads
+    /tags
+  /logs (after commit)
+    HEAD
+    /refs
+      /heads
+        master
+

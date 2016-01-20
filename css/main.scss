@@ -1,36 +1,100 @@
 ---
 ---
-$primary-colour: #53BA83;
-
 * { margin: 0; padding: 0; }
 
-html, body { height: 100%; font-family: 'Merriweather', serif; font-size: 18px; line-height: 1.75em; color: #3A4145; font-weight: 300;}
+$primary-colour: #53BA83;
+$text-colour: #3A4145;
 
-a { color: $primary-colour; text-decoration: none; }
+.text-font {
+  font-family: 'Merriweather', serif;
+}
+.header-font {
+  font-family: "Raleway", sans-serif; 
+}
+
+
+html, body { 
+  @extend .text-font;
+  font-size: 18px; 
+  line-height: 1.75em;
+  color: $text-colour; 
+  font-weight: 300;  
+  height: 100%;  
+}
+h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, figure, pre, li { margin-bottom: 18px; }
+h1, h2, h3, h4, h5, h6 { 
+  @extend .header-font; 
+}
+a { 
+  color: $primary-colour; 
+  text-decoration: none; 
+}
 a:hover, .post h1, .post h2 { color: darken($primary-colour, 15%); }
 sup { margin-top: 0;}
 hr { margin: 2em 5em;}
-
 pre { overflow: scroll;}
 blockquote { margin-left: 1em; padding-left: 1em; font-style: italic; color: #666; border-left: 5px solid #CCC; }
 ul, ol { margin-left: 2em; }
 
-header { margin: 0 auto; }
-header h1 { text-align: center; }
+header { 
+  margin: 0 auto; 
+  
+  h1 { text-align: center; }
+  .nav {
+    @extend .header-font;
+    font-size: 1.125rem;
+    margin: 2.5rem 3rem 0 3rem;
+    text-align: right;
+    z-index: 10;
+    span {
+      padding: 0 1rem;
+    }
+    .home {
+      float: left;
+    }
+  }
+  &.other {
+    .title { 
+      position: relative;
+      font-size: 6em; 
+      margin-top: 18px; 
+      z-index: 10; 
+      text-transform: uppercase; 
+      opacity: 1;
+    }
+    .tagline { 
+      position: absolute;
+      top: -1.25rem;
+      text-align: center; 
+      font-size: 4em; 
+      text-transform: lowercase; 
+      line-wrap: none; 
+      color: #CCC; 
+      opacity: 0.25; 
+      z-index: 0; 
+      height: 1em; 
+      width: 100%; 
+      overflow: hidden;
+    } 
+  }
+}
+.highlight {
+  text-align: center;
+  margin-bottom: 2rem;
+  a {
+    padding: 0 1rem;
+  }
+
+}
 .content { margin: 0 auto; max-width: 800px; padding: 2rem 1rem; }
 footer { margin: 1rem auto; }
 
-h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, figure, pre, li { margin-bottom: 18px; }
-h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; }
-
 .home {
-
   header {
     background: transparent url("/media/ski.jpg") no-repeat fixed center;
     height: 100%;
     color: #FFF;
     margin-bottom: 100px;
-
     h1 {
       font-size: 5rem;
       line-height: 0.8;
@@ -39,7 +103,6 @@ h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; }
       border-bottom: 1px solid rgba(255, 255, 255, 0.35);
       display: inline-block;
     }
-
     h2 {
       padding-top: 0.75rem;
       font-weight: 100;
@@ -47,14 +110,12 @@ h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; }
       a { color: #FFF; }
       a:hover { text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5); }
     }
-
     .container {
       position: relative;
       top: 30%;
       z-index: 4;
       text-align: center;
     }
-
     .overlay {
       background-color: #666;
       position: absolute;
@@ -66,19 +127,39 @@ h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; }
       z-index: 2;
     }
   }
-
 } 
 
-#posts { padding: 36px 0 18px 0;}
+header.other { 
+  margin-bottom: 1.5rem; 
+  line-height: 0.8;
+  fon
 
-.page {
-  h1 { text-align: center; font-size: 2em; text-transform: lowercase; margin-bottom: 2em; }
+  a { 
+    color: #444;
+  }
+  nav {
+    font-weight: 300;
+  }
 }
 
+#posts { 
+  padding: 36px 0 18px 0;
+}
+.page {
+  h1 { 
+    text-align: center; 
+    font-size: 2em; 
+    font-weight: bold; 
+    margin-bottom: 2em;
+    color: #555; 
+  }
+}
+#about h2 {
+  color: #555;
+}
 .posts {
   margin-left: 0;
   
-
   .title { 
     margin-bottom: 9px;
     
@@ -95,11 +176,6 @@ h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; }
 .post .meta { font-size: .85em; }
 p.meta { margin-top: -1em;}
 
-header.other { margin-bottom: 75px; line-height: 0.8;}
-header.other a { color: #444;}
-.other .title { font-size: 6em; margin-top: 18px; z-index: 10; text-transform: uppercase; opacity: 1; }
-.other .tagline { margin: 0 auto; margin-top: -24px; text-align: center; font-size: 4em; text-transform: lowercase; line-wrap: none; color: #CCC; opacity: 0.5; z-index: 0; height: 1em; width: 100%; overflow: hidden; text-align: center; }
-
 .footnotes { color: #666; }
 figure.simulation { position: absolute; left: 0; height: 100%; margin-bottom: 1rem;
   figcaption { text-align: center; }
@@ -107,6 +183,10 @@ figure.simulation { position: absolute; left: 0; height: 100%; margin-bottom: 1r
 }
 
 pre { line-height: 1em; padding: 1em; }
-code { font-family: Courier, 'New Courier', monospace; font-size: .8em; color: #6A739E;  }
+code { 
+  font-family: Courier, 'New Courier', monospace; 
+  font-size: .8em; 
+  color: #6A739E;  
+}
 p code { font-size: 1em; }
 footer { padding: 50px 0; text-align: center; color: #CCC;}
