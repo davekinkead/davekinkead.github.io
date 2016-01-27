@@ -154,9 +154,18 @@ header.other {
     color: #555; 
   }
 }
-#about h2 {
-  color: #555;
+#about {
+
+    margin-top: -3rem;
+    .highlight {
+      margin-bottom: 4rem;
+    }
+    h2 {
+    color: #555;
+  }
 }
+
+
 .posts {
   margin-left: 0;
   
