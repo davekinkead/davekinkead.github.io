@@ -10,7 +10,14 @@ In short - _I help people transform information into outcomes_.
 
 I been writing software for over a decade and have experience with a wide range of web technologies, with particular expertise in Ruby, Javascript, and Git.  I've lead teams in combat, managed international businesses, and performed cutting edge research.  I've worked with a diverse range of satisfied clients from the higher ed, defence, and intelligence communities.  
 
-If you have problem with the creation, access, analysis, or use of information in your organisation, then I can probably help.  If you'd like to know more, then [please get it touch](mailto:dave@kinkead.com.au).
+If you need help with:
+
+  - data analysis
+  - technology advice
+  - software developement
+  - training
+
+Then I can probably help.  If you'd like to know more, then [please get it touch](mailto:dave@kinkead.com.au).
 
 
 <!---
