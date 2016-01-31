@@ -14,9 +14,12 @@ This week I presented presented a paper at [#PESACONF2015](https://twitter.com/s
 >
 > Written in Literate Coffeescript, this paper is an argument for epistemic scepticism about school performance measurement. Simultaneously a philosophical argument and a computer simulation that demonstrates the argument, it is best viewed in HTML as this offers the reader the chance to interact with simulation and visualisations. A static version suitable for PDF or print is currently under development.
 
----
+--- 
+
+### Slides
 
 <script async class="speakerdeck-embed" data-id="d558c3cadbfa4ee39c359fc315b16075" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 
 ---
 
