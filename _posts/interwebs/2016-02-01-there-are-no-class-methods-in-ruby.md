@@ -3,6 +3,7 @@ layout: post
 title: There are no class methods in Ruby
 category: thoughts
 date: 1 Feb 2016
+comments: true
 ---
 
 Lot's of Rubyists talk about class methods.  You probably do too.  But if you do, you'd be wrong and doing so will cloud your understanding of Ruby's object model, making metaprogramming so much harder.
