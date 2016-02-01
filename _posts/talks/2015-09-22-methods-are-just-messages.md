@@ -3,6 +3,7 @@ layout: post
 title:  Methods are just messages
 category: talks
 audience: BrisRuby.org Beginner Talk
+comments: true
 ---
 
 You've probably heard that Ruby is an Object Oriented Language.  That's certainly correct but I find it more useful to think about Ruby as a [Message Oriented Language](http://dave.kinkead.com.au/thoughts/ruby-is-a-message-oriented-language/) as the two are deeply intertwined.

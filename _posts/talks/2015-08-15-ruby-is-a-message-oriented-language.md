@@ -3,6 +3,7 @@ layout: post
 title:  Ruby is a Message Oriented Language
 category: talks
 audience: RailsGirls Brisbane
+comments: true
 ---
 
 Many people think of Ruby as an Object Oriented Language.  It is - and a lovely one at that.  But Ruby makes so much more sense if you think of it as a Message Oriented Language.  Most of programming in Ruby involves sending messages to objects, and defining how objects should respond to messages.  Master this and you've almost mastered Ruby.  

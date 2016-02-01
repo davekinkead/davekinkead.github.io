@@ -2,6 +2,7 @@
 layout: post
 title:  Why RailsGirls should ditch Rails
 category: thoughts
+comments: true
 ---
 
 [RailsGirls](http://railsgirls.com/) is fantastic.  Starting a few years ago in Finland as a fun and friendly introduction to IT for women, it's been the catalyst for a number of tech careers.  It's like the best bits of Ruby and open source culture distilled into one (well catered) day and night.
