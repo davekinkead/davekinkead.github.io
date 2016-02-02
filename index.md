@@ -4,7 +4,7 @@ title: Often wrong, always confused, never bored.
 class: home
 ---
 
-<p class="highlight"><a href="/consulting">Consulting</a> - <a href="/thoughts">Writing</a> - <a href="/talks">Speaking</a> - <a href="/vitae">Vitae</a></p>
+<p class="hero"><a href="/consulting">Consulting</a> - <a href="/thoughts">Writing</a> - <a href="/talks">Speaking</a> - <a href="/vitae">Vitae</a></p>
 
 ## G’day, I’m Dave.
 
