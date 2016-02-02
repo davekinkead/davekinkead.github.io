@@ -6,7 +6,9 @@ date: 1 Feb 2016
 comments: true
 ---
 
-Lot's of Rubyists talk about class methods.  You probably do too.  But if you do, you'd be wrong and doing so will cloud your understanding of Ruby's object model, making metaprogramming so much harder.
+I've seen a lot of questions about class methods in Ruby lately. _What's the difference between class and instance methods?_ _When should I use them?_ And my favourite - [_are class methods evil?_](https://www.google.at/search?q=are+class+methods+evil+ruby). There is a lot of conflicting information out there on the interwebs but luckly there is a simple answer for almost every question about class methods Ruby.
+
+**There are no class methods in Ruby!**
 
 Here's a typical enterprise scenario:
 
@@ -32,7 +34,7 @@ We've defined a class `ChunkyBacon` with three methods.  Two of them, `:initiali
 
 Yes, yes I see it too but that ain't no class method.  Let me explain....
 
-Methods always have recievers [^unbound] - the objects that they belong to.  When we define a method, we also specify its reciever either implicitly or explicitly.  But everything in Ruby is an object.  That means classes are objects too.  
+Methods always have receivers [^unbound] - the objects that they belong to.  When we define a method, we also specify its receiver either implicitly or explicitly.  But everything in Ruby is an object.  That means classes are objects too.  
 
 [^unbound]: What? You think I forget `UnboundMethod`.  Just try `unbound_method.is_a? Method`
 
@@ -63,7 +65,7 @@ Ruby has instance methods, singleton methods, public, protected, and private met
 [^class]: `Module` does have the `:public_class_method` and `:private_class_method` methods, but if you look at the C code underneath, these methods are actually referencing `rb_singleton_class`.
 
 
-"But but..", you protest again. "The ChunkyBacon class has a `:invent` method that the ChunkyBacon instance doesn't. That's a class method! Look!"
+"But but..", you protest again. "The ChunkyBacon class has an `:invent` method that the ChunkyBacon instance doesn't. That's a class method! Look!"
 
     
     ChunkyBacon.methods.sort
