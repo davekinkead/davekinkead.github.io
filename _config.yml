@@ -5,7 +5,7 @@ kramdown:
   auto_ids: true
 highlighter: rouge
 timezone: Europe/Innsbruck
-permalink: /:categories/:title
+permalink: /:categories/:title/
 autolink: true
 
 default: 
