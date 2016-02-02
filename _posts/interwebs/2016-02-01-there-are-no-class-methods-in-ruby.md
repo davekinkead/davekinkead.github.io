@@ -6,7 +6,7 @@ date: 1 Feb 2016
 comments: true
 ---
 
-I've seen a lot of questions about class methods in Ruby lately. _What's the difference between class and instance methods?_ _When should I use them?_ And my favourite - [_are class methods evil?_](https://www.google.at/search?q=are+class+methods+evil+ruby). There is a lot of conflicting information out there on the interwebs but luckly there is a simple answer for almost every question about class methods Ruby.
+I've seen a lot of questions about class methods in Ruby lately. _What's the difference between class and instance methods?_ _When should I use them?_ And my favourite - [_are class methods evil?_](https://www.google.at/search?q=are+class+methods+evil+ruby) There is a lot of conflicting information out there on the interwebs but luckly there is a simple answer for almost every question about class methods Ruby.
 
 **There are no class methods in Ruby!**
 
