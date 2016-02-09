@@ -1,8 +1,4 @@
 name: The often wrong and always confused ramblings of Dave Kinkead
-markdown: kramdown
-kramdown:
-  footnote_nr: 1
-  auto_ids: true
 highlighter: rouge
 timezone: Europe/Innsbruck
 permalink: /:categories/:title/
@@ -10,3 +6,10 @@ autolink: true
 
 default: 
   class: post 
+
+markdown: kramdown
+kramdown:
+  footnote_nr: 1
+  auto_ids: true
+kramdown:
+  input: GFM

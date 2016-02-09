@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Strategy and Technology Consulting
+title:  Technology Consulting Services
 permalink: /consulting/
 ---
 
