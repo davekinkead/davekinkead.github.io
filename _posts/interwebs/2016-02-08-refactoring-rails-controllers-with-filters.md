@@ -53,15 +53,15 @@ That's fine - until your other methods need to be polite as well.  "No problem",
 
 **Houston, we have a problem!**  While this code looks like it should work, it is still serving up delicious choc chip snacks to all those naughty boys and girls who fail to ask nicely.  The redirect to the naughty corner is ignored.  But why?
 
-The answer lies in how Rails executes controller code.  While `render` can be called anywhere in a controller, `redirect_to` needs to be the last expression executed in the class.  One hack is to simply append `&& return` to the expression:
+The answer lies in how Rails executes controller code.  While `render` can be called anywhere in a controller, `redirect_to` needs to be the last expression executed in the class.  One hack is to simply append `and return` to the expression:
 
 
         unless params.values.include? :please_mummy
-          redirect_to naughty_corner_path && return
+          redirect_to naughty_corner_path and return
         end
 
 
-Yet this too will fail because we've extracted the well-mannered logic into its own method - the `&& return` just yields to the `moar_cookies` method.
+Yet this too will fail because we've extracted the well-mannered logic into its own method - the `and return` just yields to the `moar_cookies` method.
 
 Rails offers a much more elegant solution to this problem however - [filters](http://guides.rubyonrails.org/action_controller_overview.html#filters).  A `before_filter` permits the request cycle to be halted by preempting the normal request logic in your controllers.  We can use filters to DRY up our controller code:
 
