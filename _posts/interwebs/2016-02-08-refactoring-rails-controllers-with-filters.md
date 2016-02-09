@@ -3,6 +3,7 @@ layout: post
 title: Refactoring Rails Controllers with Filters
 category: thoughts
 date: 8 Feb 2016
+comments: true
 ---
 
 You're following the maxims laid down by the software gods.  You're keeping your controllers thin and you [Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don't_repeat_yourself).  But your application grows and you have to add more logic.  All of a sudden, your methods are doing a lot more than one thing.  It's time to refactor.  But how exactly?
