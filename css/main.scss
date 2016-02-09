@@ -165,9 +165,19 @@ figure.simulation {
 
 #hero {
   background: transparent url("/media/ski.jpg") no-repeat fixed center;
+  background-position-x: 50%;
+  background-position-y: 0%;
+  background-position: center top;
   height: 100%;
   color: #FFF;  
   margin-bottom: $buffer;
+
+  &:before {
+    content: "";
+  }
+  &:after {
+    content: "";
+  }
 
   .overlay {
     background-color: #666;
