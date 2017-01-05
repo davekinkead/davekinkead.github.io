@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There are no class methods in Ruby
-category: thoughts
+category: interwebs
 date: 1 Feb 2016
 comments: true
 ---

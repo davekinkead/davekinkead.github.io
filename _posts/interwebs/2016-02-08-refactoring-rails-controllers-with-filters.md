@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refactoring Rails Controllers with Filters
-category: thoughts
+category: interwebs
 date: 8 Feb 2016
 comments: true
 ---

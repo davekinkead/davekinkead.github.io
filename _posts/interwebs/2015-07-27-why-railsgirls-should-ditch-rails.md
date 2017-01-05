@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why RailsGirls should ditch Rails
-category: thoughts
+category: interwebs
 comments: true
 ---
 

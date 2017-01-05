@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Dynamic Properties for Elasticsearch Persistence in Ruby
-category: thoughts
+category: interwebs
 ---
 
 Most people who work on the interwebs probably know that [Elasticsearch](http://www.elasticsearch.org/) makes for a pretty awesome search engine.  What fewer people realise however is that it also makes a rather swanky persistence datastore.  I mean, if you are going to pushing most of your data from MySQL, Postgres, Mongo, or whatever to Elasticsearch for full text searching, then why not get rid of the redundant step, store all your persistent data in one place, and enjoy the transcendent luxury of a schema-less database. 
