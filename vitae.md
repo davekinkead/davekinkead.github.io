@@ -21,7 +21,7 @@ Political Philosophy, Computational Philisophy, Ethics & Moral Philosophy.
 ## Employment
 
   - 2016-2017 Program Manager, UQ Critical Thinking Project
-  - 2015-2017 Causal Lecturer in Philosophy, University of Queensland
+  - 2015-2017 Casual Lecturer in Philosophy, University of Queensland
   - 2012-2017 Independent Technology Consultant
   - 2007-2009 General Manager, Wicked Campers
   - 2003-2009 Manager, Flight Centre Business Travel
