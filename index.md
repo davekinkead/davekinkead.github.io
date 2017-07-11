@@ -8,12 +8,11 @@ class: home
 
 I ski pow, write code, and read philosophy.
 
-I'm an independent technology consultant and a philospher at the University of Queensland.  I hold degrees in Philosophy, Business, & Science.  Probably because I never got a gold star for finger-painting.
+I work at the intersection of philosophy and technology as a software developer and philospher at the University of Queensland.
 
-I work at the intersection of philosophy and technology where I help organisations build software to better understand their data.  I'm available for technology consulting and training.
+My research mainly focuses on computational methodologies and digital ethics.  I have degrees in Philosophy, Business, & Science - probably because I never got a gold star for finger-painting.
 
-Aussie by birth, I now live and work around the world - this month, I'm living in the Zillertal.  Drop me a line if you'd need help with software and critical thinking training and development.  Or if you just want to chat!
-
+Aussie by birth, I split my time between Brisbane and the Zillertal.  Get in touch any time if you want to chat.
 
 [dave@kinkead.com.au](mailto:dave@kinkead.com.au)  
 [twitter.com/davekinkead](https://twitter.com/davekinkead){:target="_blank"}  
