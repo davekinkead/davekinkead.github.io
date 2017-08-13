@@ -3,6 +3,7 @@
 
 @import 'variables';
 @import 'medium';
+@import 'syntax';
 
 /** Layout **/
 
@@ -120,6 +121,10 @@ header {
     @include skew(-3deg);
 
     h1 {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: $buffer;
+      text-transform: uppercase;
       color: darken($main-background-colour, 1%);
       padding: $buffer 0;
       margin: 0 auto;
@@ -151,6 +156,10 @@ footer {
     }
   }
 
+  p {
+    font-size: 1.5rem;
+  }
+
   a {
     color: lighten($main-text-colour, 25%);
 
@@ -161,11 +170,10 @@ footer {
   }
 }
 
-
 #disqus_thread {
   max-width: $main-content-width;
   margin: auto;
-  margin-top: $buffer*1.5;
+  margin-top: -$buffer;
 }
 
 @media only screen and (max-width: 730px) {
@@ -188,14 +196,32 @@ footer {
 
   header a {
     color: $main-background-colour;
+
+     &:hover {
+      color: lighten($colour, 10%);
+      background: none;
+     }
   }
 
-  .post.content .hero {
-    background: unquote('transparent url("/media/' + $image + '.png") no-repeat fixed center');
-    background-position: center top;
-    // background-size: cover;
-    background-color: rgba($colour, 0.5);      
+  .post.content {
+    .hero {
+      background-color: rgba($colour, 0.5);      
+    }
+
+    .backhero {
+       background-color: rgba($colour, 0.25);           
+    }
   }
+
+  footer a {
+    color: lighten($main-text-colour, 25%);
+
+    &:hover {
+      color: lighten($colour, 10%);
+      background: none;      
+    }
+  }
+
 }
 
 .interwebs  {

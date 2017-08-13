@@ -8,8 +8,8 @@ default:
   class: post 
 
 markdown: kramdown
+highlighter: rouge
 kramdown:
   footnote_nr: 1
   auto_ids: true
-kramdown:
   input: GFM
