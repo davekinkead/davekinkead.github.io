@@ -23,6 +23,7 @@ body {
   background: $heading-text-colour; 
   color: $main-text-colour; 
   font-family: $main-text-font;
+  overflow-x: hidden;
 }
 
 header {
@@ -30,6 +31,74 @@ header {
   top: 0;
   left: 0;
   right: 0;
+  z-index: 100;
+
+  a {
+
+    &:hover {
+      background-color: inherit;
+      color: darken($default-colour, 15%);
+    }
+  }
+
+  .nav {
+    span {
+      padding: 0.5rem 1rem;
+      float: right;
+    }
+    .home {
+      float: left;
+    }
+  }
+}
+
+/** Home Page **/
+
+.home {
+
+  header .nav {
+    span.home {
+      display: none;
+    }
+    
+    a {
+      color: lighten($main-text-colour, 15%); 
+
+      &:hover {
+        color: darken($default-colour, 15%);
+      }
+    }    
+  }
+
+
+
+
+  .container.home {
+    min-height: 90vh;
+    position: relative;
+
+    .wrapper {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      right: 0;
+      transform: translateY(-50%);
+    }
+  }
+
+  h1 {
+    font-size: 5vh;
+    padding: 2rem;
+    color: lighten($main-text-colour, 15%); 
+    text-align: left;
+    max-width: 1100px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  footer {
+    padding: 1rem;
+  }
 }
 
 
@@ -38,28 +107,31 @@ header {
 .content.post, .content.page {
   background: $main-background-colour;
 
+  .backhero {
+    height: $buffer * 10;
+    width: 100%;
+    background: lighten($default-colour, 30%);
+    position: absolute;
+    top: -$buffer * 5;
+    left: $buffer * 1;
+    @include skew(2deg);
+  }
   .hero {
-    padding: 0;
     background: lighten($default-colour, 20%);
-    // overflow: hidden;
+    padding: $buffer * 1.5 0 $buffer * 0.5 0;
+    margin-top: -$buffer;
+    @include skew(-3deg);
 
     h1 {
-      padding-top: $buffer;
+      color: darken($main-background-colour, 1%);
+      padding: $buffer 0;
       margin: 0 auto;
-      z-index: 100 !important;
-    }
-
-    &:after {
-      content: '';
-      display: block;
-      height: $buffer * 1;
-      margin-bottom: -$buffer ;
-      @include skew(-2deg);
+      @include skew(3deg);      
     }
   }
 
   article {
-    padding: $buffer * 2 0 $buffer * 2 0;
+    padding: $buffer * 2 1rem $buffer * 3 1rem;
   }
 
 }
@@ -67,17 +139,19 @@ header {
 
 
 footer {
-  padding: $buffer 0; 
+  padding: $buffer * 2 1rem; 
   text-align: center; 
   color: lighten($main-text-colour, 15%); 
+  background-color: $heading-text-colour;
+  margin-top: $buffer * -1;
+  @include skew(2deg);
 
-  &:before {
-    content: '';
-    display: block;
-    height: $buffer * 2;
-    margin-top: -$buffer * 2;
-    @include skew(2deg);
-    background-color: $heading-text-colour;
+  .social {
+    @include skew(-2deg);  
+
+    span {
+      padding: 0 0.5rem;
+    }
   }
 
   a {
@@ -89,45 +163,6 @@ footer {
     }
   }
 }
-
-// header { 
-//   position: absolute;
-//   top: 0;
-//   left: 0;
-//   right: 0;
-//   z-index: 10;
-
-//   a { 
-//     padding: 1rem;
-//     color: $main-background-colour; 
-//   }
-//   a:hover {
-//     color: lighten($default-colour, 50%);
-//     background-color: inherit;
-//   }
-
-//   span {
-//     margin-top: 1rem;
-//     float: right;
-    
-//   }
-//   span.home {
-//     position: fixed;
-//     top: 0;
-//     font-size: 3rem;
-//     line-height: 1;
-//   }
-// }
-
-// .white {
-//   header a {
-//     color: $default-colour;
-//   }  
-
-//   h1 {
-//     margin: $buffer*1.5 auto $buffer auto;
-//   }
-// }
 
 
 #disqus_thread {

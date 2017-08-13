@@ -1,0 +1,156 @@
+/*
+  Theme Name: Medium Open
+  Author: Dave Kinkead 
+  Author URI: http://dave.kinkead.com.au
+  Description: Medium.com inspired blog theme with open source fonts
+  Version: 1.0
+  License: CC-BY-3.0 (C) Dave Kinkead
+*/
+
+@import 'variables';
+
+/* Standard Elements */
+
+body {
+  font-size: 19px; 
+  font-size: 1.9rem; 
+  line-height: 1.7; 
+  font-weight: 300;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  clear: both; 
+  margin: $buffer 0;
+  margin-right: auto; 
+  margin-left: auto; 
+  color: $heading-text-colour; 
+  font-family: $heading-text-font; 
+  font-weight: 700; 
+  line-height: 1.125; 
+  text-rendering: optimizeLegibility;
+  text-align: center;
+}
+
+h1 {
+  font-size: 7rem;
+  max-width: 90%; 
+  margin: $buffer*2 auto;
+}
+
+h2 { 
+  max-width: 75%; 
+  font-size: 3rem; 
+  letter-spacing: -1px;
+}
+
+h3, h4, h5, h6 {
+  max-width: 75%; 
+  font-family: $main-text-font;
+  font-size: 2rem; 
+  text-transform: uppercase;
+}
+
+p {
+  margin: 0 0 2.3rem; 
+}
+
+hr {
+  background-color: #d1d1d1; 
+  border: 0; 
+  height: 1px; 
+  margin: $buffer; 
+}
+
+blockquote { 
+  margin: $buffer 1em;
+  padding-left: 1em; 
+  font-style: italic; 
+  color: #666; 
+  border-left: 5px solid #CCC; 
+}
+
+ol, ul {
+  margin: 0 0 2.3rem 2.25rem; 
+  padding: 0;
+}
+
+ol {
+  list-style-type: normal;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+li {
+  padding-left: 1em;
+}
+
+code, kbd, tt, var, samp, pre {
+  font-family: Inconsolata, monospace; 
+  font-size: 1.6666rem;
+  line-height: 1.25;
+}
+
+pre {
+  margin: $buffer $buffer/2;
+}
+
+p code {
+  font-size: 1.8rem;
+}
+
+
+a {
+  color: $default-colour;
+  text-decoration: none !important;
+}
+
+a:hover {
+  background: rgba($default-colour, 0.25);
+}
+
+ul.posts {
+  list-style: none;
+
+  li { 
+    margin: $buffer*2 0;
+  }
+
+  h2 {
+    margin: 0 auto;
+    line-height: 1.25;
+  }
+
+  .meta {
+    display: block;
+    text-align: center;
+    margin: 0 auto $buffer/1.5 auto;
+  }
+}
+
+
+
+
+/* Layout */
+
+article {
+  max-width: $main-content-width;
+  margin: auto;    
+}
+
+article {
+  img {
+    width: 100%;
+    max-width: $main-content-width;
+    height: auto;
+    margin: auto;
+  }
+}
+
+.meta {
+  font-family: $heading-text-font;
+  // font-size: 1.6667rem;
+  margin: $buffer/2 0;
+}

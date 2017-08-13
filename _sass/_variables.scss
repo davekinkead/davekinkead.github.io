@@ -1,0 +1,32 @@
+/* Variables */
+
+$buffer: 5rem;
+$main-text-font: 'Open Sans', sans-serif;
+$main-text-colour: #58595e;
+$main-background-colour: #FFFFFF;
+$main-content-width: 73rem;
+// $heading-text-font: 'Montserrat', sans-serif;
+$heading-text-font: 'Give You Glory', cursive;
+$heading-text-colour: #333333;
+
+$default-colour: #53ba83;
+$think-better: #3DBCCA;
+$interwebs: #BD374C;
+
+
+@mixin skew($angle) {
+  -webkit-transform: skewY($angle);
+  -moz-transform: skewY($angle);
+  -ms-transform: skewY($angle);
+  -o-transform: skewY($angle);
+  transform: skewY($angle);
+  -webkit-backface-visibility: hidden;
+}
+
+@mixin translateY($angle) {
+  -webkit-transform: translateY($angle);
+  -moz-transform: translateY($angle);
+  -ms-transform: translateY($angle);
+  -o-transform: translateY($angle);
+  transform: translateY($angle);
+}
