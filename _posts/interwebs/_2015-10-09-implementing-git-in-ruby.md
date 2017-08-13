@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implementing Git with Ruby
-category: thoughts
+category: interwebs
 date: 9 Oct 2015
 ---
 

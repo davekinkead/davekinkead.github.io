@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  Thoughts on Philosophy and the Interwebs
+title:  Latest Musings
 permalink: /thoughts/
+class: white
 ---
 
 

@@ -1,225 +1,175 @@
 ---
 ---
 
-* { 
-  margin: 0; 
-  padding: 0; 
-}
+@import 'variables';
+@import 'medium';
+
+/** Layout **/
+
 *, *:before, *:after {
-    box-sizing: border-box;
+  -webkit-box-sizing: inherit; 
+  -moz-box-sizing: inherit; 
+  box-sizing: inherit; 
 }
 
-$primary-colour: #53BA83;
-$text-colour: #3A4145;
-$buffer: 5rem;
-
-.text-font {
-  font-family: 'Merriweather', serif;
-}
-.header-font {
-  font-family: "Raleway", sans-serif; 
+html {
+  font-size: 10px; 
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
-html, body { 
-  @extend .text-font;
-  font-size: 18px; 
-  line-height: 1.75em;
-  color: $text-colour; 
-  font-weight: 300;  
-  height: 100%;  
+body {
+  background: $heading-text-colour; 
+  color: $main-text-colour; 
+  font-family: $main-text-font;
 }
-h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, figure, pre, li { 
-  margin-bottom: 1rem; 
-}
-h1, h2, h3, h4, h5, h6 { 
-  @extend .header-font; 
-}
-a { 
-  color: $primary-colour; 
-  text-decoration: none; 
-}
-a:hover, .post h1, .post h2 { 
-  color: darken($primary-colour, 15%); 
-}
-sup { margin-top: 0;}
-hr { margin: 2em 5em;}
-pre { overflow: scroll;}
-blockquote { 
-  margin-top: 2rem;
-  margin-left: 1em;
-  margin-bottom: 2rem; 
-  padding-left: 1em; 
-  font-style: italic; 
-  color: #666; 
-  border-left: 5px solid #CCC; 
-}
-ul, ol { 
-  margin-left: 2em; 
-}
-pre { 
-  line-height: 1em; 
-  padding: 1em; 
-}
-code { 
-  font-family: Courier, 'New Courier', monospace; 
-  font-size: .8em; 
-  color: #6A739E;  
-}
-p code { font-size: 1em; margin-right: 0.25rem; margin-left: 0.25rem; }
 
-
-// Scaffolding //
-
-header { 
+header {
   position: absolute;
   top: 0;
   left: 0;
-  right: 1rem;
-  height: 3rem;
-
-  span {
-    float: right;
-    padding: 1rem;
-  }
-  span.home {
-    position: fixed;
-    font-size: 2rem;
-  }
-}
-.content { 
-  margin: 0 auto; 
-  max-width: 800px; 
-  padding: 2rem 1rem; 
-}
-.posts {
-  list-style: none;
-  margin-left: 0;
-  h1, h2, h3, h4 {
-    font-size: 1.5rem;
-    margin-bottom: 0;
-  }
-}
-.post, .page {
-  margin-top: $buffer;
-}
-.hero {
-  text-align: center;
-  margin-bottom: 2rem;
-  a {
-    padding: 0 1rem;
-  }
-}
-.title {
-  font-size: 2rem;
-
-  &+ .meta {
-    margin-top: -1rem;
-    font-size: 0.85rem;
-  }
-}
-.excerpt {
-  margin: 1rem 0;
+  right: 0;
 }
 
-article {
-  margin-top: $buffer/1.3333;
 
-  h1, h2, h3, h4, h5 {
-    margin-top: 2rem;
-  }
-}
+/** Posts & Pages **/
 
-footer { 
-  padding: $buffer/1.3333 0; 
-  text-align: center; 
-  color: lighten($text-colour, 15%);
-}
+.content.post, .content.page {
+  background: $main-background-colour;
 
-.footnotes { 
-  color: #666; 
-  font-size: 0.9rem;
+  .hero {
+    padding: 0;
+    background: lighten($default-colour, 20%);
+    // overflow: hidden;
 
-  p, li {
-    margin-bottom: 0;
-  }
-}
-figure.simulation { 
-  position: absolute; 
-  left: 0; 
-  height: 100%; 
-  margin-bottom: 1rem;
+    h1 {
+      padding-top: $buffer;
+      margin: 0 auto;
+      z-index: 100 !important;
+    }
 
-  figcaption { 
-    text-align: center; 
-  }
-  + * { 
-    margin-top: 85%; 
-  }
-}
-
-// Components //
-
-#disqus_thread {
-  margin-top: 5rem;
-}
-
-#hero {
-  background: transparent url("/media/ski.jpg") no-repeat fixed center;
-  background-position-x: 50%;
-  background-position-y: 0%;
-  background-position: center top;
-  height: 100%;
-  color: #FFF;  
-  margin-bottom: $buffer;
-
-  &:before {
-    content: "";
-  }
-  &:after {
-    content: "";
-  }
-
-  .overlay {
-    background-color: #666;
-    position: absolute;
-    top: 0px;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    opacity: 0.5;
-    z-index: 2;
-  }
-
-  h1 {
-    font-size: 5rem;
-    line-height: 0.8;
-    text-transform: uppercase;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.35);
-    display: inline-block;
-  }
-  h2 {
-    padding-top: 0.75rem;
-    font-weight: 100;
-    span { margin: 0 1rem; }
-    a { color: #FFF; }
-    a:hover { text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5); }
-  }
-  .content {
-    position: relative;
-    top: 50%;
-    z-index: 4;
-    text-align: center;  
-  }
-}
-.home header {
-  @extend .header-font;
-  z-index: 5;
-  color: #FFF;
-  a {
-    color: #FFF;
-    &:hover {
-      color: darken(#FFF, 15%);
+    &:after {
+      content: '';
+      display: block;
+      height: $buffer * 1;
+      margin-bottom: -$buffer ;
+      @include skew(-2deg);
     }
   }
+
+  article {
+    padding: $buffer * 2 0 $buffer * 2 0;
+  }
+
+}
+
+
+
+footer {
+  padding: $buffer 0; 
+  text-align: center; 
+  color: lighten($main-text-colour, 15%); 
+
+  &:before {
+    content: '';
+    display: block;
+    height: $buffer * 2;
+    margin-top: -$buffer * 2;
+    @include skew(2deg);
+    background-color: $heading-text-colour;
+  }
+
+  a {
+    color: lighten($main-text-colour, 25%);
+
+    &:hover {
+      color: $default-colour;
+      background-color: $heading-text-colour;
+    }
+  }
+}
+
+// header { 
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   right: 0;
+//   z-index: 10;
+
+//   a { 
+//     padding: 1rem;
+//     color: $main-background-colour; 
+//   }
+//   a:hover {
+//     color: lighten($default-colour, 50%);
+//     background-color: inherit;
+//   }
+
+//   span {
+//     margin-top: 1rem;
+//     float: right;
+    
+//   }
+//   span.home {
+//     position: fixed;
+//     top: 0;
+//     font-size: 3rem;
+//     line-height: 1;
+//   }
+// }
+
+// .white {
+//   header a {
+//     color: $default-colour;
+//   }  
+
+//   h1 {
+//     margin: $buffer*1.5 auto $buffer auto;
+//   }
+// }
+
+
+#disqus_thread {
+  max-width: $main-content-width;
+  margin: auto;
+  margin-top: $buffer*1.5;
+}
+
+@media only screen and (max-width: 730px) {
+  article {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+/* Category Colours */
+
+@mixin catergorize($colour, $image) {
+  a {
+    color: $colour;
+  }
+  
+  a:hover {
+    background: rgba($colour, 0.25);
+  }
+
+  header a {
+    color: $main-background-colour;
+  }
+
+  .post.content .hero {
+    background: unquote('transparent url("/media/' + $image + '.png") no-repeat fixed center');
+    background-position: center top;
+    // background-size: cover;
+    background-color: rgba($colour, 0.5);      
+  }
+}
+
+.interwebs  {
+  @include catergorize($interwebs, 'brain')
+}
+
+.think-better {
+  @include catergorize($think-better, 'brain')
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Content Addressable Storage - Implementing Git with Ruby
-category: thoughts
+category: interwebs
 date: 18 Oct 2015
 ---
 
