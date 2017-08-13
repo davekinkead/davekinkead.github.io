@@ -70,9 +70,6 @@ header {
     }    
   }
 
-
-
-
   .container.home {
     min-height: 90vh;
     position: relative;
@@ -113,7 +110,7 @@ header {
     background: lighten($default-colour, 30%);
     position: absolute;
     top: -$buffer * 5;
-    left: $buffer * 1;
+    // left: $buffer * 1;
     @include skew(2deg);
   }
   .hero {
