@@ -1,10 +1,5 @@
 # Blog todo list
 
-  - fix consulting copy - make my USP clearer
-  - add consulting inqury form
-  - page CSS for image backgrounds
-  - js scroll position
-  - site nav
   - google sitemap
 
 ## Post ideas
@@ -14,15 +9,6 @@
   - strengthening an argument to identify flaws
   - cognitive biases and how to avoid them
 
-### Ruby / Rails
-
-  - pick a frustration and blog it
-  - pick a module and blog it
-
-### JS / Electron
-
-  - pick a frustration & blog it
-  - pick a concept & blog it
 
 ### Critical Thinking
 

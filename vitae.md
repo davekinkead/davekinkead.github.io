@@ -23,11 +23,13 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 ## Publications
 
   - Douglas, D. & Kinkead, D. (forthcoming) _Big Data and Epistemic Justifications of Democracy_, Routledge.
+  - Cook, J., Ellerton, P., & Kinkead, D. (2018). _Deconstructing climate misinformation to identify reasoning errors_. Environmental Research Letters, 13(2), [024018](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f).
   - Kinkead, D. (2015) _What can student results tell us about school performance?_. In: PESA Conference 2015: Re-engaging with politics: Re-imagining the university. Philosophy of Education Society of Australasia 2015, Melbourne, Australia, (1-23). 5-8 December 2015.              
 
 
 ## Grants & Prizes
 
+  - 2017 UQ Teaching Innovation Grant ($125,000)
   - 2016 UQ Learning & Development Seed Grant ($5000)
   - 2012-2015 Australian Postgraduate Award ($87,000)
   - 2009-2011 Dean's Commendations for Academic Excellence
@@ -65,9 +67,9 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Employment
 
-  - 2016-2017 Program Manager, UQ Critical Thinking Project
-  - 2015-2017 Casual Lecturer in Philosophy, University of Queensland
-  - 2012-2017 Independent Technology Consultant
+  - 2016-2018 Program Manager, UQ Critical Thinking Project
+  - 2015-2018 Casual Lecturer in Philosophy, University of Queensland
+  - 2012-2018 Independent Technology Consultant
   - 2007-2009 General Manager, Wicked Campers
   - 2003-2009 Manager, Flight Centre Business Travel
   - 1994-2001 Maritime Warfare Officer, Royal Australian Navy
