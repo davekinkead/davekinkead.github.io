@@ -50,6 +50,14 @@ header {
     .home {
       float: left;
     }
+
+    a {
+      color: lighten($main-text-colour, 50%); 
+
+      &:hover {
+        color: darken($default-colour, 15%);
+      }
+    }
   }
 }
 
@@ -108,20 +116,20 @@ header {
   .backhero {
     height: $buffer * 10;
     width: 100%;
-    background: lighten($default-colour, 30%);
+    background: lighten($main-text-colour, 30%);
     position: absolute;
     top: -$buffer * 5;
     // left: $buffer * 1;
     @include skew(2deg);
   }
   .hero {
-    background: lighten($default-colour, 20%);
+    background: lighten($main-text-colour, 20%);
     padding: $buffer * 1.5 0 $buffer * 0.5 0;
     margin-top: -$buffer;
     @include skew(-3deg);
 
     h1 {
-      font-family: 'Open Sans', sans-serif;
+      // font-family: 'Open Sans', sans-serif;
       font-weight: 300;
       font-size: $buffer;
       text-transform: uppercase;

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Curriculum Vitae
+title:  Vitae
 permalink: /vitae/
 ---
 
@@ -14,17 +14,27 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Education
 
-  - 2012-2017 PhD in Computational Philosophy (expected), University of Queensland
-  - 2009-2011 MA in Philosophy, University of Queensland
-  - 2004-2005 MBA in Entreprenuership, Charles Sturt University
-  - 1994-1996 BSc in Geography & Politics, University of New South Wales
+  - 2012-Soon - PhD in Computational Philosophy (expected), University of Queensland
+  - 2009-2011 - MA in Philosophy, University of Queensland
+  - 2004-2005 - MBA in Entreprenuership, Charles Sturt University
+  - 1994-1996 - BSc in Geography & Politics, University of New South Wales
+
+
+## Work in Progress
+
+  - Douglas, D. & Kinkead, D. (forthcoming) _Big Data and Epistemic Justifications of Democracy_, Routledge.
+  - Kinkead, D. (under review) [_Reasons: A digital argument mapping library for modern browsers_](https://github.com/openjournals/joss-papers/blob/joss.00976/joss.00976/10.21105.joss.00976.pdf), Journal of Open Source Software.
+  - Kinkead, D. (in progress) _The Impact of IMPACT: Observing the effects of online critical thinking classes on student standardised test scores_.
+  - Kinkead, D. (in progress) [_What can student results tell us about school performance?_](http://dave.kinkead.com.au/school-performance/)
+  - Kinkead, D. (in progress) [_Democracy, Borders, and Legitimacy_](http://dave.kinkead.com.au/modelling-the-boundary-problem/)
+  - Kinkead, D. (in progress) _Simulation as Argument: Towards a computational methodology of philosophy_, PhD Thesis
 
 
 ## Publications
 
-  - Douglas, D. & Kinkead, D. (forthcoming) _Big Data and Epistemic Justifications of Democracy_, Routledge.
-  - Cook, J., Ellerton, P., & Kinkead, D. (2018). _Deconstructing climate misinformation to identify reasoning errors_. Environmental Research Letters, 13(2), [024018](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f).
-  - Kinkead, D. (2015) _What can student results tell us about school performance?_. In: PESA Conference 2015: Re-engaging with politics: Re-imagining the university. Philosophy of Education Society of Australasia 2015, Melbourne, Australia, (1-23). 5-8 December 2015.              
+
+  - Cook, J., Ellerton, P., & Kinkead, D. (2018). [_Deconstructing climate misinformation to identify reasoning errors_](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f). Environmental Research Letters, 13(2), 024018.
+  - Kinkead, D. (2015) [_What can student results tell us about school performance?_](https://espace.library.uq.edu.au/view/UQ:380210). In: PESA Conference 2015: Re-engaging with politics: Re-imagining the university. Philosophy of Education Society of Australasia 2015, Melbourne, Australia, (1-23). 5-8 December 2015.
 
 
 ## Grants & Prizes
@@ -37,6 +47,8 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Talks & Presentations
 
+  - _Pedagogy as Quality Assurance_, Exploring Online Education with the Indian Government, Deakin University, July 2018
+  - _Online Critical Thinking_, Digital Pedagogies Conference, Mahatma Gandhi Institute of Education for Peace and Sustainable Development, Visakhapatnam India, December 2017
   - _Simulation as Argument_, Telling Digital Stories, Digital Humanities and Social Sciences, University of Queensland, May 2017
   - _What can student results tell us about school performance?_ Philosophy and Education Society of Australasia, Melbourne, December 2015
   - _Critical Thinking for Infantry Officers_ 6th Battalion Royal Australian Regiment, October 2015
