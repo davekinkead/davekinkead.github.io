@@ -47,6 +47,8 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Talks & Presentations
 
+  - _Matching Tactics to Strategy in Digital Pedagogy_, MGIEP TECH2018, Mahatma Gandhi Institute of Education for Peace and Sustainable Development, Visakhapatnam India, November 2018
+  - _Schools as Sites of Public Reason_, Association for Moral Education, Barcelona, November 2018
   - _Pedagogy as Quality Assurance_, Exploring Online Education with the Indian Government, Deakin University, July 2018
   - _Online Critical Thinking_, Digital Pedagogies Conference, Mahatma Gandhi Institute of Education for Peace and Sustainable Development, Visakhapatnam India, December 2017
   - _Simulation as Argument_, Telling Digital Stories, Digital Humanities and Social Sciences, University of Queensland, May 2017
@@ -79,8 +81,8 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Employment
 
-  - 2016-2018 Program Manager, UQ Critical Thinking Project
   - 2015-2018 Casual Lecturer in Philosophy, University of Queensland
+  - 2016-2018 Program Manager, UQ Critical Thinking Project
   - 2012-2018 Independent Technology Consultant
   - 2007-2009 General Manager, Wicked Campers
   - 2003-2009 Manager, Flight Centre Business Travel
