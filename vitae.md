@@ -4,7 +4,7 @@ title:  Vitae
 permalink: /vitae/
 ---
 
-I’m a computational philosopher at the University of Queensland with a focus on political philosophy, digital ethics, and philosophical pedagogies.  My current research involves the use of agent based models to test the coherence of theories, how big data impacts democracy, and developing digital tools to enhance critical thinking and reasoning.
+I’m a computational philosopher at the University of Queensland with a focus on critical thinking, political philosophy, digital ethics, and philosophical pedagogies.  My current research involves the use of agent based models to test the coherence of theories, how big data impacts democracy, and developing digital tools to enhance critical thinking and reasoning.
 
 
 ## Areas of Competence
