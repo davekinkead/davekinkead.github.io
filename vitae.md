@@ -23,7 +23,7 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 ## Work in Progress
 
   - Douglas, D. & Kinkead, D. (forthcoming) _Big Data and Epistemic Justifications of Democracy_, Routledge.
-  - Kinkead, D. (under review) [_Reasons: A digital argument mapping library for modern browsers_](https://github.com/openjournals/joss-papers/blob/joss.00976/joss.00976/10.21105.joss.00976.pdf), Journal of Open Source Software.
+
   - Kinkead, D. (in progress) _The Impact of IMPACT: Observing the effects of online critical thinking classes on student standardised test scores_.
   - Kinkead, D. (in progress) [_What can student results tell us about school performance?_](http://dave.kinkead.com.au/school-performance/)
   - Kinkead, D. (in progress) [_Democracy, Borders, and Legitimacy_](http://dave.kinkead.com.au/modelling-the-boundary-problem/)
@@ -33,6 +33,7 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 ## Publications
 
 
+  - Kinkead, D. _et al_ (2019) [_Reasons: A digital argument mapping library for modern browsers_](https://doi.org/10.21105/joss.01044), Journal of Open Source Software.
   - Cook, J., Ellerton, P., & Kinkead, D. (2018). [_Deconstructing climate misinformation to identify reasoning errors_](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f). Environmental Research Letters, 13(2), 024018.
   - Kinkead, D. (2015) [_What can student results tell us about school performance?_](https://espace.library.uq.edu.au/view/UQ:380210). In: PESA Conference 2015: Re-engaging with politics: Re-imagining the university. Philosophy of Education Society of Australasia 2015, Melbourne, Australia, (1-23). 5-8 December 2015.
 
