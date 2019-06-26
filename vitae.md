@@ -22,7 +22,6 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Work in Progress
 
-  - Douglas, D. & Kinkead, D. (forthcoming) _Big Data and Epistemic Justifications of Democracy_, Routledge.
 
   - Kinkead, D. (under review) _The Impact of IMPACT: Observing the effects of online critical thinking classes on student standardised test scores_.
   - Kinkead, D. (in progress) [_What can student results tell us about school performance?_](http://dave.kinkead.com.au/school-performance/)
@@ -32,7 +31,7 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Publications
 
-
+  - Douglas, D. & Kinkead, D. (forthcoming) _Big Data and Epistemic Justifications of Democracy_, Routledge.
   - Kinkead, D., Brown, D., Ellerton, P. & Mazzola, C. (2019) [_Reasons: A digital argument mapping library for modern browsers_](https://doi.org/10.21105/joss.01044), Journal of Open Source Software.
   - Cook, J., Ellerton, P., & Kinkead, D. (2018). [_Deconstructing climate misinformation to identify reasoning errors_](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f). Environmental Research Letters, 13(2), 024018.
   - Kinkead, D. (2015) [_What can student results tell us about school performance?_](https://espace.library.uq.edu.au/view/UQ:380210). In: PESA Conference 2015: Re-engaging with politics: Re-imagining the university. Philosophy of Education Society of Australasia 2015, Melbourne, Australia, (1-23). 5-8 December 2015.
@@ -65,6 +64,7 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Teaching
 
+  - 2019 Effective Thinking and Writing (WRIT1999) _Coordinator & Lecturer_
   - 2017 Critical Reasoning (Gradute) (PHIL7111) _Coordinator & Lecturer_
   - 2017 Effective Thinking and Writing (WRIT1999) _Coordinator & Lecturer_
   - 2016 Critical Reasoning (Gradute) (PHIL7111) _Coordinator & Lecturer_
@@ -82,9 +82,9 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
 
 ## Employment
 
-  - 2015-2018 Casual Lecturer in Philosophy, University of Queensland
+  - 2018-2019 Director, Centre for Critical and Creative Thinking
+  - 2015-2019 Casual Lecturer in Philosophy, University of Queensland
   - 2016-2018 Program Manager, UQ Critical Thinking Project
-  - 2012-2018 Independent Technology Consultant
   - 2007-2009 General Manager, Wicked Campers
   - 2003-2009 Manager, Flight Centre Business Travel
   - 1994-2001 Maritime Warfare Officer, Royal Australian Navy
