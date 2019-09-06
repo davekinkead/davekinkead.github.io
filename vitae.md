@@ -9,7 +9,7 @@ I’m a computational philosopher at the University of Queensland with a focus o
 
 ## Areas of Competence
 
-Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics.
+Political Philosophy, Computational Philosophy, Critical Thinking, Digital Pedagogies, Ethics.
 
 
 ## Education
@@ -20,21 +20,21 @@ Political Philosophy, Computational Philosophy, Philosophical Pedagogies, Ethics
   - 1994-1996 - BSc in Geography & Politics, University of New South Wales
 
 
+## Publications
+
+  - Douglas, D. & Kinkead, D. (forthcoming) _Big Data and Epistemic Justifications of Democracy_, Edinburgh University Press.
+  - Kinkead, D., Brown, D., Ellerton, P. & Mazzola, C. (2019) [_Reasons: A digital argument mapping library for modern browsers_](https://doi.org/10.21105/joss.01044), Journal of Open Source Software.
+  - Cook, J., Ellerton, P., & Kinkead, D. (2018). [_Deconstructing climate misinformation to identify reasoning errors_](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f). Environmental Research Letters, 13(2), 024018.
+  - Kinkead, D. (2015) [_What can student results tell us about school performance?_](https://espace.library.uq.edu.au/view/UQ:380210). In: PESA Conference 2015: Re-engaging with politics: Re-imagining the university. Philosophy of Education Society of Australasia 2015, Melbourne, Australia, (1-23). 5-8 December 2015.
+
+
 ## Work in Progress
 
 
   - Kinkead, D. (under review) _The Impact of IMPACT: Observing the effects of online critical thinking classes on student standardised test scores_.
-  - Kinkead, D. (in progress) [_What can student results tell us about school performance?_](http://dave.kinkead.com.au/school-performance/)
+  - Kinkead, D. (under review) [_What can student results tell us about school performance?_](http://dave.kinkead.com.au/school-performance/)
   - Kinkead, D. (in progress) [_Democracy, Borders, and Legitimacy_](http://dave.kinkead.com.au/modelling-the-boundary-problem/)
   - Kinkead, D. (in progress) _Simulation as Argument: Towards a computational methodology of philosophy_, PhD Thesis
-
-
-## Publications
-
-  - Douglas, D. & Kinkead, D. (forthcoming) _Big Data and Epistemic Justifications of Democracy_, Routledge.
-  - Kinkead, D., Brown, D., Ellerton, P. & Mazzola, C. (2019) [_Reasons: A digital argument mapping library for modern browsers_](https://doi.org/10.21105/joss.01044), Journal of Open Source Software.
-  - Cook, J., Ellerton, P., & Kinkead, D. (2018). [_Deconstructing climate misinformation to identify reasoning errors_](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f). Environmental Research Letters, 13(2), 024018.
-  - Kinkead, D. (2015) [_What can student results tell us about school performance?_](https://espace.library.uq.edu.au/view/UQ:380210). In: PESA Conference 2015: Re-engaging with politics: Re-imagining the university. Philosophy of Education Society of Australasia 2015, Melbourne, Australia, (1-23). 5-8 December 2015.
 
 
 ## Grants & Prizes
