@@ -22,7 +22,7 @@ Political Philosophy, Computational Philosophy, Critical Thinking, Digital Pedag
 
 ## Publications
 
-  - Kinkead, D. & Douglas, D. (2020) The Network and the Demos: Big Data & the Epistemic Justifications of Democracy. In K. Macnish & J. Galliott (Eds.), Big Data and Democracy. Edinburgh University Press.
+  - Kinkead, D. & Douglas, D. (2020) _The Network and the Demos: Big Data & the Epistemic Justifications of Democracy_. In K. Macnish & J. Galliott (Eds.), [Big Data and Democracy](https://www.bookdepository.com/Big-Data-Democracy-Kevin-Macnish/9781474463522?ref=grid-view&qid=1569407916374&sr=1-2). Edinburgh University Press.
   - Kinkead, D., Brown, D., Ellerton, P. & Mazzola, C. (2019) [_Reasons: A digital argument mapping library for modern browsers_](https://doi.org/10.21105/joss.01044), Journal of Open Source Software.
   - Cook, J., Ellerton, P., & Kinkead, D. (2018). [_Deconstructing climate misinformation to identify reasoning errors_](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f). Environmental Research Letters, 13(2), 024018.
   - Kinkead, D. (2015) [_What can student results tell us about school performance?_](https://espace.library.uq.edu.au/view/UQ:380210). In: PESA Conference 2015: Re-engaging with politics: Re-imagining the university. Philosophy of Education Society of Australasia 2015, Melbourne, Australia, (1-23). 5-8 December 2015.
