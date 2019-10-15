@@ -14,10 +14,10 @@ Political Philosophy, Computational Philosophy, Critical Thinking, Digital Pedag
 
 ## Education
 
-  - 2012-Soon - PhD in Computational Philosophy (expected), University of Queensland
-  - 2009-2011 - MA in Philosophy, University of Queensland
-  - 2004-2005 - MBA in Entreprenuership, Charles Sturt University
-  - 1994-1996 - BSc in Geography & Politics, University of New South Wales
+  - ???? - PhD in Computational Philosophy (eventually), University of Queensland
+  - 2011 - MA in Philosophy, University of Queensland
+  - 2005 - MBA in Entrepreneurship, Charles Sturt University
+  - 1996 - BSc in Geography & Politics, University of New South Wales
 
 
 ## Publications
