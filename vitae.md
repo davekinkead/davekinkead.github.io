@@ -87,9 +87,9 @@ Political Philosophy, Computational Philosophy, Critical Thinking, Digital Pedag
 
 ## Employment
 
-  - 2018-2019 Director, Centre for Critical and Creative Thinking
-  - 2015-2019 Casual Lecturer in Philosophy, University of Queensland
+  - 2018-2020 Director, Centre for Critical and Creative Thinking
+  - 2015-2019 Adjunct Lecturer in Philosophy, University of Queensland
   - 2016-2018 Program Manager, UQ Critical Thinking Project
   - 2007-2009 General Manager, Wicked Campers
-  - 2003-2009 Manager, Flight Centre Business Travel
+  - 2003-2007 Manager, Flight Centre Business Travel
   - 1994-2001 Maritime Warfare Officer, Royal Australian Navy
