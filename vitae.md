@@ -22,7 +22,7 @@ Political Philosophy, Computational Philosophy, Critical Thinking, Digital Pedag
 
 ## Publications
 
-  - Mazzola, C., Kinkead, D., Ellerton, P., Brown, D. (forthcoming) Reichenbachian Common Cause Clusters, _Erkenntnis_
+  - Mazzola, C., Kinkead, D., Ellerton, P., Brown, D. (2020) [_Reichenbachian Common Cause Clusters_](https://doi.org/10.1007/s10670-020-00269-6), Erkenntnis
   - Kinkead, D. & Douglas, D. (2020) _The Network and the Demos: Big Data & the Epistemic Justifications of Democracy_. In K. Macnish & J. Galliott (Eds.), [Big Data and Democracy](https://edinburghuniversitypress.com/book-big-data-and-democracy-hb.html). Edinburgh University Press.
   - Kinkead, D., Brown, D., Ellerton, P. & Mazzola, C. (2019) [_Reasons: A digital argument mapping library for modern browsers_](https://doi.org/10.21105/joss.01044), Journal of Open Source Software.
   - Cook, J., Ellerton, P., & Kinkead, D. (2018). [_Deconstructing climate misinformation to identify reasoning errors_](http://iopscience.iop.org/article/10.1088/1748-9326/aaa49f). Environmental Research Letters, 13(2), 024018.
@@ -40,8 +40,8 @@ Political Philosophy, Computational Philosophy, Critical Thinking, Digital Pedag
 
 ## Grants & Prizes
 
-  - 2017 UQ Teaching Innovation Grant ($125,000)
-  - 2016 UQ Learning & Development Seed Grant ($5000)
+  - 2017 UQ Teaching Innovation Grant ($125,000) with Deb Brown & Peter Ellerton
+  - 2016 UQ Learning & Development Seed Grant ($5000) with Deb Brown
   - 2012-2015 Australian Postgraduate Award ($87,000)
   - 2009-2011 Dean's Commendations for Academic Excellence
 
